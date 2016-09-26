@@ -1,0 +1,19 @@
+Kelly Krawczyk
+Machine Learning Project
+Stock Market Prediction
+
+	Market efficiency refers to the degree to which stock prices and other securities prices reflect all available and
+	relevant information.  The theory of efficient market hypothesis (EMH) states that it is not possible for an
+	investor to outperform the market, because all of the available data has already been built into all stock prices.
+	There are a wide range of strategies that investors use when making decisions in the market, but the stock market
+	tends to be extremely unpredictable due to the abundant factors influencing its results.  This problem of
+	instability and unpredictability can be solved with machine learning.
+
+	Understanding the underlying stock price dynamics is incredibly important for investors and researchers, because it
+	controls the economy and affects everyone.  The input space will be the change in the daily stock prices of a given
+	set of stocks.  The output space will be a set of decisions indicating whether or not to buy or sell the stock.
+
+	There is data available for the learning task.  The Dow, Nasdaq, and S&P all have data available online.  This data
+	includes most popular stocks, stocks that have gained, stocks that have lost, commodities, world markets, and more.
+	The learning paradigm will be supervised, because the project will revolve around learning a mapping between an
+	input x, change in stock, and a desired output y, decision to buy or sell.
