@@ -1,0 +1,50 @@
+Supervised Learning Theories
+-Logistic Regression
+-Gaussian Discriminant Analysis
+-Quadratic Discriminant Analysis
+-SVM
+
+Next-Day Model
+--------------
+Accuracy of prediction:
+-X = the number of days that model correctly classified the testing data
+-Y = total number of testing days
+-Accuracy = X/Y
+
+70% of data sets as training data
+30% of remaining data sets tested by fitted model
+
+Model Accuracy
+-Logistic Regression: 44.5%
+-GDA: 46.4%
+-QDA: 58.2%
+-SVM: 55.2%
+
+Challenges
+-Next-day prediction has a very low accuracy
+-Flipping a coin (50% accuracy, investing decision is binomial)
+
+
+Long-Term Model
+---------------
+70% of data sets as training data
+30% of remaining data sets tested by fitted model
+
+Accuracy increases when the time window increases
+-SVM
+-QDA
+
+SVM-highest accuracy when:
+-Time window is 44 days (79.3%)
+-Most stable model
+
+
+Strategy for 3M stock
+---------------------
+Predictor: SVM
+Kernel: polynomial
+Number of features: 16
+Time window: 44 days
+Decision tree: prediction
+-Increase (buy if not holding it, hold if already holding it)
+-Decrease (do nothing if not holding it, sell if already holding it)
