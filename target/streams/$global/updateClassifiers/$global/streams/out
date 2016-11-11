@@ -10,7 +10,7 @@
 [debug] == resolving dependencies for usesaul#usesaul$sources_2.11;1.0 [compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2efc16e4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d778c3a
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
@@ -19,7 +19,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#saul_2.11;0.5 [compile->default(compile)]
 [info] Resolving edu.illinois.cs.cogcomp#saul_2.11;0.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2938bd56
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48a5796b
 [debug] sbt-chain: module revision found in cache: edu.illinois.cs.cogcomp#saul_2.11;0.5
 [debug] 	found edu.illinois.cs.cogcomp#saul_2.11;0.5 in sbt-chain
 [debug] 	[0.5] edu.illinois.cs.cogcomp#saul_2.11;0.5
@@ -28,7 +28,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#saul_2.11;0.5 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#LBJava;1.2.20 [compile->default(compile)]
 [info] Resolving edu.illinois.cs.cogcomp#LBJava;1.2.20 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c4ce734
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@788ddf10
 [debug] sbt-chain: module revision found in cache: edu.illinois.cs.cogcomp#LBJava;1.2.20
 [debug] 	found edu.illinois.cs.cogcomp#LBJava;1.2.20 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#LBJava;1.2.20 [compile->runtime]
@@ -36,7 +36,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#LBJava;1.2.20 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->nz.ac.waikato.cms.weka#weka-stable;3.6.10 [compile->default(compile)]
 [info] Resolving nz.ac.waikato.cms.weka#weka-stable;3.6.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e261b40
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@557a6489
 [debug] sbt-chain: module revision found in cache: nz.ac.waikato.cms.weka#weka-stable;3.6.10
 [debug] 	found nz.ac.waikato.cms.weka#weka-stable;3.6.10 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->nz.ac.waikato.cms.weka#weka-stable;3.6.10 [compile->runtime]
@@ -44,7 +44,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->nz.ac.waikato.cms.weka#weka-stable;3.6.10 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a [compile->default(compile)]
 [info] Resolving net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10aa672d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@171f18a9
 [debug] sbt-chain: module revision found in cache: net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a
 [debug] 	found net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a [compile->runtime]
@@ -52,7 +52,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->de.bwaldvogel#liblinear;1.94 [compile->default(compile)]
 [info] Resolving de.bwaldvogel#liblinear;1.94 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77e25f99
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e708e38
 [debug] sbt-chain: module revision found in cache: de.bwaldvogel#liblinear;1.94
 [debug] 	found de.bwaldvogel#liblinear;1.94 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->de.bwaldvogel#liblinear;1.94 [compile->runtime]
@@ -60,7 +60,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->de.bwaldvogel#liblinear;1.94 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->default(compile)]
 [info] Resolving org.ojalgo#ojalgo;37.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4574106d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e2e912
 [debug] sbt-chain: module revision found in cache: org.ojalgo#ojalgo;37.1.1
 [debug] 	found org.ojalgo#ojalgo;37.1.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->runtime]
@@ -68,7 +68,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34f6f4ba
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e970ed2
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.6
 [debug] 	found org.apache.commons#commons-math3;3.6 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->runtime]
@@ -76,39 +76,23 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->default(compile)]
 [info] Resolving edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cb6e55
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6168b3c6
 [debug] sbt-chain: module revision found in cache: edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64
 [debug] 	found edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->default(compile)]
-[info] Resolving edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3335b7fb
-[debug] sbt-chain: module revision found in cache: edu.illinois.cs.cogcomp#jwnl-prime;1.0.4
-[debug] 	found edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 in sbt-chain
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@671d95a6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69a20388
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.1
 [debug] 	found commons-logging#commons-logging;1.1.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->default(compile)]
-[info] Resolving edu.illinois.cs.cogcomp#wordnet;1.0-binary ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7128825a
-[debug] sbt-chain: module revision found in cache: edu.illinois.cs.cogcomp#wordnet;1.0-binary
-[debug] 	found edu.illinois.cs.cogcomp#wordnet;1.0-binary in sbt-chain
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->default(compile)]
 [info] Resolving junit#junit;4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56af053c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24b9c269
 [debug] sbt-chain: module revision found in cache: junit#junit;4.4
 [debug] 	found junit#junit;4.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->runtime]
@@ -116,7 +100,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.trove4j#trove4j;3.0.3 [compile->default(compile)]
 [info] Resolving net.sf.trove4j#trove4j;3.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ceb5152
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44763bd2
 [debug] sbt-chain: module revision found in cache: net.sf.trove4j#trove4j;3.0.3
 [debug] 	found net.sf.trove4j#trove4j;3.0.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.trove4j#trove4j;3.0.3 [compile->runtime]
@@ -124,7 +108,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.trove4j#trove4j;3.0.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.6.1 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-log4j12;1.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7431deed
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6773dcb6
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-log4j12;1.6.1
 [debug] 	found org.slf4j#slf4j-log4j12;1.6.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.6.1 [compile->runtime]
@@ -132,7 +116,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.6.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->log4j#log4j;1.2.16 [compile->default(compile)]
 [info] Resolving log4j#log4j;1.2.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c1bea3e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d91fbfa
 [debug] sbt-chain: module revision found in cache: log4j#log4j;1.2.16
 [debug] 	found log4j#log4j;1.2.16 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->log4j#log4j;1.2.16 [compile->runtime]
@@ -140,7 +124,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->log4j#log4j;1.2.16 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-io#commons-io;1.3.2 [compile->default(compile)]
 [info] Resolving commons-io#commons-io;1.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50ac647a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61de86aa
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;1.3.2
 [debug] 	found commons-io#commons-io;1.3.2 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-io#commons-io;1.3.2 [compile->runtime]
@@ -148,7 +132,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-io#commons-io;1.3.2 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-lang#commons-lang;2.3 [compile->default(compile)]
 [info] Resolving commons-lang#commons-lang;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3335125d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9de15df
 [debug] sbt-chain: module revision found in cache: commons-lang#commons-lang;2.3
 [debug] 	found commons-lang#commons-lang;2.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-lang#commons-lang;2.3 [compile->runtime]
@@ -156,7 +140,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-lang#commons-lang;2.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.ehcache#ehcache;2.8.3 [compile->default(compile)]
 [info] Resolving net.sf.ehcache#ehcache;2.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@419b387c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28fe3de6
 [debug] sbt-chain: module revision found in cache: net.sf.ehcache#ehcache;2.8.3
 [debug] 	found net.sf.ehcache#ehcache;2.8.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.ehcache#ehcache;2.8.3 [compile->runtime]
@@ -164,7 +148,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.ehcache#ehcache;2.8.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.googlecode.json-simple#json-simple;1.1 [compile->default(compile)]
 [info] Resolving com.googlecode.json-simple#json-simple;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56ca7b89
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49a5892f
 [debug] sbt-chain: module revision found in cache: com.googlecode.json-simple#json-simple;1.1
 [debug] 	found com.googlecode.json-simple#json-simple;1.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.googlecode.json-simple#json-simple;1.1 [compile->runtime]
@@ -172,39 +156,23 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.googlecode.json-simple#json-simple;1.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->default(compile)]
 [info] Resolving com.google.code.gson#gson;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@346d78c4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3db24a05
 [debug] sbt-chain: module revision found in cache: com.google.code.gson#gson;2.3.1
 [debug] 	found com.google.code.gson#gson;2.3.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->default(compile)]
-[info] Resolving edu.princeton#wordnet-dict;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@272543f8
-[debug] sbt-chain: module revision found in cache: edu.princeton#wordnet-dict;3.1
-[debug] 	found edu.princeton#wordnet-dict;3.1 in sbt-chain
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->default(compile)]
 [info] Resolving com.h2database#h2;1.4.191 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b50afa4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37dd9ae5
 [debug] sbt-chain: module revision found in cache: com.h2database#h2;1.4.191
 [debug] 	found com.h2database#h2;1.4.191 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->default(compile)]
-[info] Resolving com.gurobi#gurobi;6.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2750e0bf
-[debug] sbt-chain: module revision found in cache: com.gurobi#gurobi;6.0
-[debug] 	found com.gurobi#gurobi;6.0 in sbt-chain
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [info] Resolving org.scalatest#scalatest_2.11;2.2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f24db54
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24ae1d62
 [debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.4
 [debug] 	found org.scalatest#scalatest_2.11;2.2.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
@@ -212,7 +180,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6f420bf5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2bb5f633
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime]
@@ -220,7 +188,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->ch.qos.logback#logback-classic;1.1.7 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-classic;1.1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c82b5f6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a438682
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-classic;1.1.7
 [debug] 	found ch.qos.logback#logback-classic;1.1.7 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->ch.qos.logback#logback-classic;1.1.7 [compile->runtime]
@@ -228,7 +196,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->ch.qos.logback#logback-classic;1.1.7 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->ch.qos.logback#logback-core;1.1.7 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-core;1.1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46df305c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ea30ae2
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-core;1.1.7
 [debug] 	found ch.qos.logback#logback-core;1.1.7 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->ch.qos.logback#logback-core;1.1.7 [compile->runtime]
@@ -236,7 +204,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->ch.qos.logback#logback-core;1.1.7 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.20 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.20 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@301533d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5eadd86
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.20
 [debug] 	found org.slf4j#slf4j-api;1.7.20 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.20 [compile->runtime]
@@ -244,7 +212,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.20 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6942d1d9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@326294aa
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play_2.11;2.4.3
 [debug] 	found com.typesafe.play#play_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play_2.11;2.4.3 [compile->runtime]
@@ -252,7 +220,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#build-link;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#build-link;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11d36d0f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b5fbda7
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#build-link;2.4.3
 [debug] 	found com.typesafe.play#build-link;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#build-link;2.4.3 [compile->runtime]
@@ -260,7 +228,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#build-link;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-exceptions;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-exceptions;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a207888
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ce149d8
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-exceptions;2.4.3
 [debug] 	found com.typesafe.play#play-exceptions;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-exceptions;2.4.3 [compile->runtime]
@@ -268,7 +236,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-exceptions;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.javassist#javassist;3.19.0-GA [compile->default(compile)]
 [info] Resolving org.javassist#javassist;3.19.0-GA ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ab53c82
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52ee67d5
 [debug] sbt-chain: module revision found in cache: org.javassist#javassist;3.19.0-GA
 [debug] 	found org.javassist#javassist;3.19.0-GA in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.javassist#javassist;3.19.0-GA [compile->runtime]
@@ -276,7 +244,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.javassist#javassist;3.19.0-GA [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-iteratees_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b8cb2a1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30abd34c
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-iteratees_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-iteratees_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.3 [compile->runtime]
@@ -284,7 +252,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->default(compile)]
 [info] Resolving org.scala-stm#scala-stm_2.11;0.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5cfa39d5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22272d
 [debug] sbt-chain: module revision found in cache: org.scala-stm#scala-stm_2.11;0.7
 [debug] 	found org.scala-stm#scala-stm_2.11;0.7 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->runtime]
@@ -292,7 +260,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bf7fe8a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7086d215
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.0
 [debug] 	found com.typesafe#config;1.3.0 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->runtime]
@@ -300,7 +268,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-json_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b17b3c4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f8fa90c
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-json_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-json_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.3 [compile->runtime]
@@ -308,7 +276,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-functional_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@81e023f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ea73d9a
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-functional_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-functional_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.3 [compile->runtime]
@@ -316,7 +284,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-datacommons_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@484b345e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a562dd8
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-datacommons_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-datacommons_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.3 [compile->runtime]
@@ -324,7 +292,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->joda-time#joda-time;2.8.1 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.8.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41207aee
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3474f933
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.8.1
 [debug] 	found joda-time#joda-time;2.8.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->joda-time#joda-time;2.8.1 [compile->runtime]
@@ -332,7 +300,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->joda-time#joda-time;2.8.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.joda#joda-convert;1.7 [compile->default(compile)]
 [info] Resolving org.joda#joda-convert;1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f7daf4e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16fd0d77
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.7
 [debug] 	found org.joda#joda-convert;1.7 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.joda#joda-convert;1.7 [compile->runtime]
@@ -340,7 +308,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.joda#joda-convert;1.7 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.6 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48da5509
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e36f6ab
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.6
 [debug] 	found org.scala-lang#scala-reflect;2.11.6 in sbt-chain
 [debug] 	[2.11.6] org.scala-lang#scala-reflect;2.11.6
@@ -349,7 +317,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.6 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1880a76a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c6656d4
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.5.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->runtime]
@@ -357,7 +325,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@753d4d9d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20734c3d
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.5.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->runtime]
@@ -365,7 +333,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39aa2349
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8155d9d
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.5.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->runtime]
@@ -373,7 +341,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@600c5668
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47606c9a
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->runtime]
@@ -381,7 +349,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fc510be
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33740e02
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->runtime]
@@ -389,7 +357,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-netty-utils;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-netty-utils;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27bd76cd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60b29aaf
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-netty-utils;2.4.3
 [debug] 	found com.typesafe.play#play-netty-utils;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-netty-utils;2.4.3 [compile->runtime]
@@ -397,7 +365,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-netty-utils;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.12 [compile->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9359e6e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@355af6dd
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.12
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.12 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.12 [compile->runtime]
@@ -405,7 +373,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.12 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.12 [compile->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66091492
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@249f9186
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.12
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.12 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.12 [compile->runtime]
@@ -413,7 +381,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.12 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->default(compile)]
 [info] Resolving com.typesafe.play#twirl-api_2.11;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c988d3d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b8e758a
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#twirl-api_2.11;1.1.1
 [debug] 	found com.typesafe.play#twirl-api_2.11;1.1.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->runtime]
@@ -421,7 +389,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-lang3;3.4 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@482f85a1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e6bbe30
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.4
 [debug] 	found org.apache.commons#commons-lang3;3.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-lang3;3.4 [compile->runtime]
@@ -429,7 +397,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-lang3;3.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@742df05c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fea13a3
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->runtime]
@@ -437,7 +405,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.13 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.3.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@43b76057
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1467f6e4
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.3.13
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.3.13 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.13 [compile->runtime]
@@ -445,7 +413,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.13 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.13 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-slf4j_2.11;2.3.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7724370a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e20daff
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-slf4j_2.11;2.3.13
 [debug] 	found com.typesafe.akka#akka-slf4j_2.11;2.3.13 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.13 [compile->runtime]
@@ -453,7 +421,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.13 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@779c6129
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@81457f4
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.10
 [debug] 	found commons-codec#commons-codec;1.10 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->runtime]
@@ -461,7 +429,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->xerces#xercesImpl;2.11.0 [compile->default(compile)]
 [info] Resolving xerces#xercesImpl;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49001cbf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34677e51
 [debug] sbt-chain: module revision found in cache: xerces#xercesImpl;2.11.0
 [debug] 	found xerces#xercesImpl;2.11.0 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->xerces#xercesImpl;2.11.0 [compile->runtime]
@@ -469,7 +437,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->xerces#xercesImpl;2.11.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->xml-apis#xml-apis;1.4.01 [compile->default(compile)]
 [info] Resolving xml-apis#xml-apis;1.4.01 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5abde669
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e533e97
 [debug] sbt-chain: module revision found in cache: xml-apis#xml-apis;1.4.01
 [debug] 	found xml-apis#xml-apis;1.4.01 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->xml-apis#xml-apis;1.4.01 [compile->runtime]
@@ -477,7 +445,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->xml-apis#xml-apis;1.4.01 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->default(compile)]
 [info] Resolving javax.transaction#jta;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b3239a1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36be27da
 [debug] sbt-chain: module revision found in cache: javax.transaction#jta;1.1
 [debug] 	found javax.transaction#jta;1.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->runtime]
@@ -485,7 +453,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject#guice;4.0 [compile->default(compile)]
 [info] Resolving com.google.inject#guice;4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42048eea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@456d6336
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;4.0
 [debug] 	found com.google.inject#guice;4.0 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject#guice;4.0 [compile->runtime]
@@ -493,7 +461,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject#guice;4.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b996554
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bcad994
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->runtime]
@@ -501,7 +469,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7bf108c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f6f46de
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->runtime]
@@ -509,7 +477,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.guava#guava;16.0.1 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;16.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@633b1ac9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@216cfd34
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;16.0.1
 [debug] 	found com.google.guava#guava;16.0.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.guava#guava;16.0.1 [compile->runtime]
@@ -517,9 +485,23 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.guava#guava;16.0.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->default(compile)]
 [info] Resolving com.google.inject.extensions#guice-assistedinject;4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28eda8e3
-[debug] sbt-chain: module revision found in cache: com.google.inject.extensions#guice-assistedinject;4.0
-[debug] 	found com.google.inject.extensions#guice-assistedinject;4.0 in sbt-chain
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5aaf46b2
+[info] Resolving com.google.inject.extensions#guice-assistedinject;4.0 ...
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@5aaf46b2
+[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.google.inject.extensions/guice-assistedinject/4.0/ivys/ivy.xml
+[debug] 	local: no ivy file found for com.google.inject.extensions#guice-assistedinject;4.0
+[debug] 		tried https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
+[debug] 	jcenter: found md file for com.google.inject.extensions#guice-assistedinject;4.0
+[debug] 		=> https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom (4.0)
+[debug] downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
+[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
+[debug] 	[SUCCESSFUL ] com.google.inject.extensions#guice-assistedinject;4.0!guice-assistedinject.pom(pom.original) (437ms)
+[info] Resolving com.google.inject.extensions#extensions-parent;4.0 ...
+[debug] sbt-chain: Checking cache for: dependency: com.google.inject.extensions#extensions-parent;4.0 {}
+[debug] sbt-chain: module revision found in cache: com.google.inject.extensions#extensions-parent;4.0
+[debug] 	found com.google.inject.extensions#guice-assistedinject;4.0 in jcenter
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->master]
@@ -562,18 +544,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->compile]
@@ -610,18 +584,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
@@ -818,18 +784,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime->compile]
@@ -866,18 +824,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->compile]
@@ -1078,18 +1028,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->compile]
@@ -1126,18 +1068,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
@@ -1334,18 +1268,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime->compile]
@@ -1382,18 +1308,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->compile]
@@ -1590,18 +1508,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [test->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [test->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [test->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [test->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [test->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [test->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [test->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [test->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [test->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [test->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [test->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [test->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [test->compile]
@@ -1638,18 +1548,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [test->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [test->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [test->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [test->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [test->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [test->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [test->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [test->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->compile]
@@ -1853,18 +1755,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->compile]
@@ -1901,18 +1795,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
@@ -2111,18 +1997,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile-internal->compile]
@@ -2159,18 +2037,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile-internal->compile]
@@ -2371,18 +2241,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->compile]
@@ -2419,18 +2281,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
@@ -2627,18 +2481,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime->compile]
@@ -2675,18 +2521,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->compile]
@@ -2884,18 +2722,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime-internal->compile]
@@ -2932,18 +2762,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime-internal->compile]
@@ -3145,18 +2967,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->compile]
@@ -3193,18 +3007,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
@@ -3401,18 +3207,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [runtime->compile]
@@ -3449,18 +3247,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->compile]
@@ -3657,18 +3447,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [test->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [test->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [test->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [test->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [test->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [test->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [test->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [test->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [test->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [test->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [test->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [test->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [test->compile]
@@ -3705,18 +3487,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [test->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [test->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [test->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [test->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [test->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [test->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [test->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [test->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->compile]
@@ -3915,18 +3689,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [test-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [test-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [test-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#jwnl-prime;1.0.4 [test-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [test-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [test-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [test-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [test-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [test-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [test-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [test-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#wordnet;1.0-binary [test-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [test-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [test-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [test-internal->compile]
@@ -3963,18 +3729,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [test-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [test-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [test-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [test-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.princeton#wordnet-dict;3.1 [test-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [test-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [test-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [test-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.gurobi#gurobi;6.0 [test-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test-internal->compile]
@@ -4193,682 +3951,131 @@
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.7!scala-library.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scala-lang/scala-library/2.11.7/srcs/scala-library-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar
-[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scala-library;2.11.7!scala-library.jar(src) (6573ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/edu.illinois.cs.cogcomp/saul_2.11/0.5/srcs/saul_2.11-sources.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.7!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] edu.illinois.cs.cogcomp#saul_2.11;0.5!saul_2.11.jar(src)
 [debug] 	[NOT REQUIRED] edu.illinois.cs.cogcomp#saul_2.11;0.5!saul_2.11.jar
-[debug] 		tried https://jcenter.bintray.com/edu/illinois/cs/cogcomp/saul_2.11/0.5/saul_2.11-0.5-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://jcenter.bintray.com/edu/illinois/cs/cogcomp/saul_2.11/0.5/saul_2.11-0.5-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/edu/illinois/cs/cogcomp/saul_2.11/0.5/saul_2.11-0.5-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/edu/illinois/cs/cogcomp/saul_2.11/0.5/saul_2.11-0.5-sources.jar
-[debug] 		tried http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/saul_2.11/0.5/saul_2.11-0.5-sources.jar
-[info] downloading http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/saul_2.11/0.5/saul_2.11-0.5-sources.jar ...
-[debug] 	CogcompSoftware: downloading http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/saul_2.11/0.5/saul_2.11-0.5-sources.jar
-[debug] 	CogcompSoftware: downloading http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/saul_2.11/0.5/saul_2.11-0.5-sources.jar.sha1
-[debug] sha1 OK for http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/saul_2.11/0.5/saul_2.11-0.5-sources.jar
-[info] 	[SUCCESSFUL ] edu.illinois.cs.cogcomp#saul_2.11;0.5!saul_2.11.jar(src) (456ms)
 [debug] 	[NOT REQUIRED] edu.illinois.cs.cogcomp#LBJava;1.2.20!LBJava.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/edu.illinois.cs.cogcomp/LBJava/1.2.20/srcs/LBJava-sources.jar
-[debug] 		tried https://jcenter.bintray.com/edu/illinois/cs/cogcomp/LBJava/1.2.20/LBJava-1.2.20-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://jcenter.bintray.com/edu/illinois/cs/cogcomp/LBJava/1.2.20/LBJava-1.2.20-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/edu/illinois/cs/cogcomp/LBJava/1.2.20/LBJava-1.2.20-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/edu/illinois/cs/cogcomp/LBJava/1.2.20/LBJava-1.2.20-sources.jar
-[debug] 		tried http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/LBJava/1.2.20/LBJava-1.2.20-sources.jar
-[info] downloading http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/LBJava/1.2.20/LBJava-1.2.20-sources.jar ...
-[debug] 	CogcompSoftware: downloading http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/LBJava/1.2.20/LBJava-1.2.20-sources.jar
-[debug] 	CogcompSoftware: downloading http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/LBJava/1.2.20/LBJava-1.2.20-sources.jar.sha1
-[debug] sha1 OK for http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/LBJava/1.2.20/LBJava-1.2.20-sources.jar
-[info] 	[SUCCESSFUL ] edu.illinois.cs.cogcomp#LBJava;1.2.20!LBJava.jar(src) (487ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/nz.ac.waikato.cms.weka/weka-stable/3.6.10/srcs/weka-stable-sources.jar
+[debug] 	[NOT REQUIRED] edu.illinois.cs.cogcomp#LBJava;1.2.20!LBJava.jar(src)
+[debug] 	[NOT REQUIRED] nz.ac.waikato.cms.weka#weka-stable;3.6.10!weka-stable.jar(src)
 [debug] 	[NOT REQUIRED] nz.ac.waikato.cms.weka#weka-stable;3.6.10!weka-stable.jar
-[debug] 		tried https://jcenter.bintray.com/nz/ac/waikato/cms/weka/weka-stable/3.6.10/weka-stable-3.6.10-sources.jar
-[info] downloading https://jcenter.bintray.com/nz/ac/waikato/cms/weka/weka-stable/3.6.10/weka-stable-3.6.10-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/nz/ac/waikato/cms/weka/weka-stable/3.6.10/weka-stable-3.6.10-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/nz/ac/waikato/cms/weka/weka-stable/3.6.10/weka-stable-3.6.10-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/nz/ac/waikato/cms/weka/weka-stable/3.6.10/weka-stable-3.6.10-sources.jar
-[info] 	[SUCCESSFUL ] nz.ac.waikato.cms.weka#weka-stable;3.6.10!weka-stable.jar(src) (3599ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/net.sf.squirrel-sql.thirdparty-non-maven/java-cup/0.11a/srcs/java-cup-sources.jar
+[debug] 	[NOT REQUIRED] net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a!java-cup.jar(src)
 [debug] 	[NOT REQUIRED] net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a!java-cup.jar
-[debug] 		tried https://jcenter.bintray.com/net/sf/squirrel-sql/thirdparty-non-maven/java-cup/0.11a/java-cup-0.11a-sources.jar
-[info] downloading https://jcenter.bintray.com/net/sf/squirrel-sql/thirdparty-non-maven/java-cup/0.11a/java-cup-0.11a-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/net/sf/squirrel-sql/thirdparty-non-maven/java-cup/0.11a/java-cup-0.11a-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/net/sf/squirrel-sql/thirdparty-non-maven/java-cup/0.11a/java-cup-0.11a-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/net/sf/squirrel-sql/thirdparty-non-maven/java-cup/0.11a/java-cup-0.11a-sources.jar
-[info] 	[SUCCESSFUL ] net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a!java-cup.jar(src) (4902ms)
 [debug] 	[NOT REQUIRED] de.bwaldvogel#liblinear;1.94!liblinear.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/de.bwaldvogel/liblinear/1.94/srcs/liblinear-sources.jar
-[debug] 		tried https://jcenter.bintray.com/de/bwaldvogel/liblinear/1.94/liblinear-1.94-sources.jar
-[info] downloading https://jcenter.bintray.com/de/bwaldvogel/liblinear/1.94/liblinear-1.94-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/de/bwaldvogel/liblinear/1.94/liblinear-1.94-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/de/bwaldvogel/liblinear/1.94/liblinear-1.94-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/de/bwaldvogel/liblinear/1.94/liblinear-1.94-sources.jar
-[info] 	[SUCCESSFUL ] de.bwaldvogel#liblinear;1.94!liblinear.jar(src) (668ms)
+[debug] 	[NOT REQUIRED] de.bwaldvogel#liblinear;1.94!liblinear.jar(src)
 [debug] 	[NOT REQUIRED] org.ojalgo#ojalgo;37.1.1!ojalgo.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.ojalgo/ojalgo/37.1.1/srcs/ojalgo-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/ojalgo/ojalgo/37.1.1/ojalgo-37.1.1-sources.jar
-[info] downloading https://jcenter.bintray.com/org/ojalgo/ojalgo/37.1.1/ojalgo-37.1.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/ojalgo/ojalgo/37.1.1/ojalgo-37.1.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/ojalgo/ojalgo/37.1.1/ojalgo-37.1.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/ojalgo/ojalgo/37.1.1/ojalgo-37.1.1-sources.jar
-[info] 	[SUCCESSFUL ] org.ojalgo#ojalgo;37.1.1!ojalgo.jar(src) (4543ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.apache.commons/commons-math3/3.6/srcs/commons-math3-sources.jar
+[debug] 	[NOT REQUIRED] org.ojalgo#ojalgo;37.1.1!ojalgo.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-math3;3.6!commons-math3.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.commons#commons-math3;3.6!commons-math3.jar
-[debug] 		tried https://jcenter.bintray.com/org/apache/commons/commons-math3/3.6/commons-math3-3.6-sources.jar
-[info] downloading https://jcenter.bintray.com/org/apache/commons/commons-math3/3.6/commons-math3-3.6-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/commons/commons-math3/3.6/commons-math3-3.6-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/commons/commons-math3/3.6/commons-math3-3.6-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/apache/commons/commons-math3/3.6/commons-math3-3.6-sources.jar
-[info] 	[SUCCESSFUL ] org.apache.commons#commons-math3;3.6!commons-math3.jar(src) (3005ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/edu.illinois.cs.cogcomp/illinois-core-utilities/3.0.64/srcs/illinois-core-utilities-sources.jar
+[debug] 	[NOT REQUIRED] edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64!illinois-core-utilities.jar(src)
 [debug] 	[NOT REQUIRED] edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64!illinois-core-utilities.jar
-[debug] 		tried https://jcenter.bintray.com/edu/illinois/cs/cogcomp/illinois-core-utilities/3.0.64/illinois-core-utilities-3.0.64-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://jcenter.bintray.com/edu/illinois/cs/cogcomp/illinois-core-utilities/3.0.64/illinois-core-utilities-3.0.64-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/edu/illinois/cs/cogcomp/illinois-core-utilities/3.0.64/illinois-core-utilities-3.0.64-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/edu/illinois/cs/cogcomp/illinois-core-utilities/3.0.64/illinois-core-utilities-3.0.64-sources.jar
-[debug] 		tried http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/illinois-core-utilities/3.0.64/illinois-core-utilities-3.0.64-sources.jar
-[info] downloading http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/illinois-core-utilities/3.0.64/illinois-core-utilities-3.0.64-sources.jar ...
-[debug] 	CogcompSoftware: downloading http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/illinois-core-utilities/3.0.64/illinois-core-utilities-3.0.64-sources.jar
-[debug] 	CogcompSoftware: downloading http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/illinois-core-utilities/3.0.64/illinois-core-utilities-3.0.64-sources.jar.sha1
-[debug] sha1 OK for http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/illinois-core-utilities/3.0.64/illinois-core-utilities-3.0.64-sources.jar
-[info] 	[SUCCESSFUL ] edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64!illinois-core-utilities.jar(src) (420ms)
-[debug] 	[NOT REQUIRED] edu.illinois.cs.cogcomp#jwnl-prime;1.0.4!jwnl-prime.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/edu.illinois.cs.cogcomp/jwnl-prime/1.0.4/srcs/jwnl-prime-sources.jar
-[debug] 		tried https://jcenter.bintray.com/edu/illinois/cs/cogcomp/jwnl-prime/1.0.4/jwnl-prime-1.0.4-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://jcenter.bintray.com/edu/illinois/cs/cogcomp/jwnl-prime/1.0.4/jwnl-prime-1.0.4-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/edu/illinois/cs/cogcomp/jwnl-prime/1.0.4/jwnl-prime-1.0.4-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/edu/illinois/cs/cogcomp/jwnl-prime/1.0.4/jwnl-prime-1.0.4-sources.jar
-[debug] 		tried http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/jwnl-prime/1.0.4/jwnl-prime-1.0.4-sources.jar
-[debug] CLIENT ERROR: Not Found url=http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/jwnl-prime/1.0.4/jwnl-prime-1.0.4-sources.jar
-[warn] 	[FAILED     ] edu.illinois.cs.cogcomp#jwnl-prime;1.0.4!jwnl-prime.jar(src):  (0ms)
-[warn] ==== local: tried
-[warn]   /Users/kellykrawczyk/.ivy2/local/edu.illinois.cs.cogcomp/jwnl-prime/1.0.4/srcs/jwnl-prime-sources.jar
-[warn] ==== jcenter: tried
-[warn]   https://jcenter.bintray.com/edu/illinois/cs/cogcomp/jwnl-prime/1.0.4/jwnl-prime-1.0.4-sources.jar
-[warn] ==== public: tried
-[warn]   https://repo1.maven.org/maven2/edu/illinois/cs/cogcomp/jwnl-prime/1.0.4/jwnl-prime-1.0.4-sources.jar
-[warn] ==== CogcompSoftware: tried
-[warn]   http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/jwnl-prime/1.0.4/jwnl-prime-1.0.4-sources.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/commons-logging/commons-logging/1.1.1/srcs/commons-logging-sources.jar
+[debug] 	[NOT REQUIRED] commons-logging#commons-logging;1.1.1!commons-logging.jar(src)
 [debug] 	[NOT REQUIRED] commons-logging#commons-logging;1.1.1!commons-logging.jar
-[debug] 		tried https://jcenter.bintray.com/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar
-[info] downloading https://jcenter.bintray.com/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar
-[info] 	[SUCCESSFUL ] commons-logging#commons-logging;1.1.1!commons-logging.jar(src) (1043ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/edu.illinois.cs.cogcomp/wordnet/1.0-binary/srcs/wordnet-sources.jar
-[debug] 	[NOT REQUIRED] edu.illinois.cs.cogcomp#wordnet;1.0-binary!wordnet.jar
-[debug] 		tried https://jcenter.bintray.com/edu/illinois/cs/cogcomp/wordnet/1.0-binary/wordnet-1.0-binary-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://jcenter.bintray.com/edu/illinois/cs/cogcomp/wordnet/1.0-binary/wordnet-1.0-binary-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/edu/illinois/cs/cogcomp/wordnet/1.0-binary/wordnet-1.0-binary-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/edu/illinois/cs/cogcomp/wordnet/1.0-binary/wordnet-1.0-binary-sources.jar
-[debug] 		tried http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/wordnet/1.0-binary/wordnet-1.0-binary-sources.jar
-[debug] CLIENT ERROR: Not Found url=http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/wordnet/1.0-binary/wordnet-1.0-binary-sources.jar
-[warn] 	[FAILED     ] edu.illinois.cs.cogcomp#wordnet;1.0-binary!wordnet.jar(src):  (0ms)
-[warn] ==== local: tried
-[warn]   /Users/kellykrawczyk/.ivy2/local/edu.illinois.cs.cogcomp/wordnet/1.0-binary/srcs/wordnet-sources.jar
-[warn] ==== jcenter: tried
-[warn]   https://jcenter.bintray.com/edu/illinois/cs/cogcomp/wordnet/1.0-binary/wordnet-1.0-binary-sources.jar
-[warn] ==== public: tried
-[warn]   https://repo1.maven.org/maven2/edu/illinois/cs/cogcomp/wordnet/1.0-binary/wordnet-1.0-binary-sources.jar
-[warn] ==== CogcompSoftware: tried
-[warn]   http://cogcomp.cs.illinois.edu/m2repo/edu/illinois/cs/cogcomp/wordnet/1.0-binary/wordnet-1.0-binary-sources.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/junit/junit/4.4/srcs/junit-sources.jar
+[debug] 	[NOT REQUIRED] junit#junit;4.4!junit.jar(src)
 [debug] 	[NOT REQUIRED] junit#junit;4.4!junit.jar
-[debug] 		tried https://jcenter.bintray.com/junit/junit/4.4/junit-4.4-sources.jar
-[info] downloading https://jcenter.bintray.com/junit/junit/4.4/junit-4.4-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/junit/junit/4.4/junit-4.4-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/junit/junit/4.4/junit-4.4-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/junit/junit/4.4/junit-4.4-sources.jar
-[info] 	[SUCCESSFUL ] junit#junit;4.4!junit.jar(src) (1251ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/net.sf.trove4j/trove4j/3.0.3/srcs/trove4j-sources.jar
+[debug] 	[NOT REQUIRED] net.sf.trove4j#trove4j;3.0.3!trove4j.jar(src)
 [debug] 	[NOT REQUIRED] net.sf.trove4j#trove4j;3.0.3!trove4j.jar
-[debug] 		tried https://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar
-[info] downloading https://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3-sources.jar
-[info] 	[SUCCESSFUL ] net.sf.trove4j#trove4j;3.0.3!trove4j.jar(src) (4469ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.slf4j/slf4j-log4j12/1.6.1/srcs/slf4j-log4j12-sources.jar
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-log4j12;1.6.1!slf4j-log4j12.jar(src)
 [debug] 	[NOT REQUIRED] org.slf4j#slf4j-log4j12;1.6.1!slf4j-log4j12.jar
-[debug] 		tried https://jcenter.bintray.com/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1-sources.jar
-[info] downloading https://jcenter.bintray.com/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1-sources.jar
-[info] 	[SUCCESSFUL ] org.slf4j#slf4j-log4j12;1.6.1!slf4j-log4j12.jar(src) (502ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/log4j/log4j/1.2.16/srcs/log4j-sources.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/log4j/log4j/1.2.16/jars/log4j.jar
-[debug] 		tried https://jcenter.bintray.com/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar
-[info] downloading https://jcenter.bintray.com/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar
-[info] 	[SUCCESSFUL ] log4j#log4j;1.2.16!log4j.jar(src) (4990ms)
-[debug] 		tried https://jcenter.bintray.com/log4j/log4j/1.2.16/log4j-1.2.16.jar
-[info] downloading https://jcenter.bintray.com/log4j/log4j/1.2.16/log4j-1.2.16.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/log4j/log4j/1.2.16/log4j-1.2.16.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/log4j/log4j/1.2.16/log4j-1.2.16.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/log4j/log4j/1.2.16/log4j-1.2.16.jar
-[info] 	[SUCCESSFUL ] log4j#log4j;1.2.16!log4j.jar (675ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/commons-io/commons-io/1.3.2/srcs/commons-io-sources.jar
+[debug] 	[NOT REQUIRED] log4j#log4j;1.2.16!log4j.jar(src)
+[debug] 	[NOT REQUIRED] log4j#log4j;1.2.16!log4j.jar
+[debug] 	[NOT REQUIRED] commons-io#commons-io;1.3.2!commons-io.jar(src)
 [debug] 	[NOT REQUIRED] commons-io#commons-io;1.3.2!commons-io.jar
-[debug] 		tried https://jcenter.bintray.com/commons-io/commons-io/1.3.2/commons-io-1.3.2-sources.jar
-[info] downloading https://jcenter.bintray.com/commons-io/commons-io/1.3.2/commons-io-1.3.2-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/commons-io/commons-io/1.3.2/commons-io-1.3.2-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/commons-io/commons-io/1.3.2/commons-io-1.3.2-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/commons-io/commons-io/1.3.2/commons-io-1.3.2-sources.jar
-[info] 	[SUCCESSFUL ] commons-io#commons-io;1.3.2!commons-io.jar(src) (1102ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/commons-lang/commons-lang/2.3/srcs/commons-lang-sources.jar
+[debug] 	[NOT REQUIRED] commons-lang#commons-lang;2.3!commons-lang.jar(src)
 [debug] 	[NOT REQUIRED] commons-lang#commons-lang;2.3!commons-lang.jar
-[debug] 		tried https://jcenter.bintray.com/commons-lang/commons-lang/2.3/commons-lang-2.3-sources.jar
-[info] downloading https://jcenter.bintray.com/commons-lang/commons-lang/2.3/commons-lang-2.3-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/commons-lang/commons-lang/2.3/commons-lang-2.3-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/commons-lang/commons-lang/2.3/commons-lang-2.3-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/commons-lang/commons-lang/2.3/commons-lang-2.3-sources.jar
-[info] 	[SUCCESSFUL ] commons-lang#commons-lang;2.3!commons-lang.jar(src) (4832ms)
 [debug] 	[NOT REQUIRED] net.sf.ehcache#ehcache;2.8.3!ehcache.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/net.sf.ehcache/ehcache/2.8.3/srcs/ehcache-sources.jar
-[debug] 		tried https://jcenter.bintray.com/net/sf/ehcache/ehcache/2.8.3/ehcache-2.8.3-sources.jar
-[info] downloading https://jcenter.bintray.com/net/sf/ehcache/ehcache/2.8.3/ehcache-2.8.3-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/net/sf/ehcache/ehcache/2.8.3/ehcache-2.8.3-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/net/sf/ehcache/ehcache/2.8.3/ehcache-2.8.3-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/net/sf/ehcache/ehcache/2.8.3/ehcache-2.8.3-sources.jar
-[info] 	[SUCCESSFUL ] net.sf.ehcache#ehcache;2.8.3!ehcache.jar(src) (8416ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.googlecode.json-simple/json-simple/1.1/srcs/json-simple-sources.jar
+[debug] 	[NOT REQUIRED] net.sf.ehcache#ehcache;2.8.3!ehcache.jar(src)
+[debug] 	[NOT REQUIRED] com.googlecode.json-simple#json-simple;1.1!json-simple.jar(src)
 [debug] 	[NOT REQUIRED] com.googlecode.json-simple#json-simple;1.1!json-simple.jar
-[debug] 		tried https://jcenter.bintray.com/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1-sources.jar
-[info] downloading https://jcenter.bintray.com/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1-sources.jar
-[info] 	[SUCCESSFUL ] com.googlecode.json-simple#json-simple;1.1!json-simple.jar(src) (606ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.google.code.gson/gson/2.3.1/srcs/gson-sources.jar
+[debug] 	[NOT REQUIRED] com.google.code.gson#gson;2.3.1!gson.jar(src)
 [debug] 	[NOT REQUIRED] com.google.code.gson#gson;2.3.1!gson.jar
-[debug] 		tried https://jcenter.bintray.com/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar
-[info] downloading https://jcenter.bintray.com/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar
-[info] 	[SUCCESSFUL ] com.google.code.gson#gson;2.3.1!gson.jar(src) (1139ms)
-[debug] 	[NOT REQUIRED] edu.princeton#wordnet-dict;3.1!wordnet-dict.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/edu.princeton/wordnet-dict/3.1/srcs/wordnet-dict-sources.jar
-[debug] 		tried https://jcenter.bintray.com/edu/princeton/wordnet-dict/3.1/wordnet-dict-3.1-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://jcenter.bintray.com/edu/princeton/wordnet-dict/3.1/wordnet-dict-3.1-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/edu/princeton/wordnet-dict/3.1/wordnet-dict-3.1-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/edu/princeton/wordnet-dict/3.1/wordnet-dict-3.1-sources.jar
-[debug] 		tried http://cogcomp.cs.illinois.edu/m2repo/edu/princeton/wordnet-dict/3.1/wordnet-dict-3.1-sources.jar
-[debug] CLIENT ERROR: Not Found url=http://cogcomp.cs.illinois.edu/m2repo/edu/princeton/wordnet-dict/3.1/wordnet-dict-3.1-sources.jar
-[warn] 	[FAILED     ] edu.princeton#wordnet-dict;3.1!wordnet-dict.jar(src):  (0ms)
-[warn] ==== local: tried
-[warn]   /Users/kellykrawczyk/.ivy2/local/edu.princeton/wordnet-dict/3.1/srcs/wordnet-dict-sources.jar
-[warn] ==== jcenter: tried
-[warn]   https://jcenter.bintray.com/edu/princeton/wordnet-dict/3.1/wordnet-dict-3.1-sources.jar
-[warn] ==== public: tried
-[warn]   https://repo1.maven.org/maven2/edu/princeton/wordnet-dict/3.1/wordnet-dict-3.1-sources.jar
-[warn] ==== CogcompSoftware: tried
-[warn]   http://cogcomp.cs.illinois.edu/m2repo/edu/princeton/wordnet-dict/3.1/wordnet-dict-3.1-sources.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.h2database/h2/1.4.191/srcs/h2-sources.jar
+[debug] 	[NOT REQUIRED] com.h2database#h2;1.4.191!h2.jar(src)
 [debug] 	[NOT REQUIRED] com.h2database#h2;1.4.191!h2.jar
-[debug] 		tried https://jcenter.bintray.com/com/h2database/h2/1.4.191/h2-1.4.191-sources.jar
-[info] downloading https://jcenter.bintray.com/com/h2database/h2/1.4.191/h2-1.4.191-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/h2database/h2/1.4.191/h2-1.4.191-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/h2database/h2/1.4.191/h2-1.4.191-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/h2database/h2/1.4.191/h2-1.4.191-sources.jar
-[info] 	[SUCCESSFUL ] com.h2database#h2;1.4.191!h2.jar(src) (6994ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.gurobi/gurobi/6.0/srcs/gurobi-sources.jar
-[debug] 	[NOT REQUIRED] com.gurobi#gurobi;6.0!gurobi.jar
-[debug] 		tried https://jcenter.bintray.com/com/gurobi/gurobi/6.0/gurobi-6.0-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://jcenter.bintray.com/com/gurobi/gurobi/6.0/gurobi-6.0-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/gurobi/gurobi/6.0/gurobi-6.0-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/gurobi/gurobi/6.0/gurobi-6.0-sources.jar
-[debug] 		tried http://cogcomp.cs.illinois.edu/m2repo/com/gurobi/gurobi/6.0/gurobi-6.0-sources.jar
-[debug] CLIENT ERROR: Not Found url=http://cogcomp.cs.illinois.edu/m2repo/com/gurobi/gurobi/6.0/gurobi-6.0-sources.jar
-[warn] 	[FAILED     ] com.gurobi#gurobi;6.0!gurobi.jar(src):  (0ms)
-[warn] ==== local: tried
-[warn]   /Users/kellykrawczyk/.ivy2/local/com.gurobi/gurobi/6.0/srcs/gurobi-sources.jar
-[warn] ==== jcenter: tried
-[warn]   https://jcenter.bintray.com/com/gurobi/gurobi/6.0/gurobi-6.0-sources.jar
-[warn] ==== public: tried
-[warn]   https://repo1.maven.org/maven2/com/gurobi/gurobi/6.0/gurobi-6.0-sources.jar
-[warn] ==== CogcompSoftware: tried
-[warn]   http://cogcomp.cs.illinois.edu/m2repo/com/gurobi/gurobi/6.0/gurobi-6.0-sources.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scalatest/scalatest_2.11/2.2.4/srcs/scalatest_2.11-sources.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scalatest/scalatest_2.11/2.2.4/jars/scalatest_2.11.jar
-[debug] 		tried https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar
-[info] downloading https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar
-[info] 	[SUCCESSFUL ] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar(src) (4381ms)
-[debug] 		tried https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar
-[info] downloading https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar
-[info] 	[SUCCESSFUL ] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar (2357ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.2/srcs/scala-xml_2.11-sources.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.2/jars/scala-xml_2.11.jar
-[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar
-[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(src) (987ms)
-[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
-[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar (680ms)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar
 [debug] 	[NOT REQUIRED] ch.qos.logback#logback-classic;1.1.7!logback-classic.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/ch.qos.logback/logback-classic/1.1.7/srcs/logback-classic-sources.jar
-[debug] 		tried https://jcenter.bintray.com/ch/qos/logback/logback-classic/1.1.7/logback-classic-1.1.7-sources.jar
-[info] downloading https://jcenter.bintray.com/ch/qos/logback/logback-classic/1.1.7/logback-classic-1.1.7-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/ch/qos/logback/logback-classic/1.1.7/logback-classic-1.1.7-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/ch/qos/logback/logback-classic/1.1.7/logback-classic-1.1.7-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/ch/qos/logback/logback-classic/1.1.7/logback-classic-1.1.7-sources.jar
-[info] 	[SUCCESSFUL ] ch.qos.logback#logback-classic;1.1.7!logback-classic.jar(src) (5829ms)
+[debug] 	[NOT REQUIRED] ch.qos.logback#logback-classic;1.1.7!logback-classic.jar(src)
 [debug] 	[NOT REQUIRED] ch.qos.logback#logback-core;1.1.7!logback-core.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/ch.qos.logback/logback-core/1.1.7/srcs/logback-core-sources.jar
-[debug] 		tried https://jcenter.bintray.com/ch/qos/logback/logback-core/1.1.7/logback-core-1.1.7-sources.jar
-[info] downloading https://jcenter.bintray.com/ch/qos/logback/logback-core/1.1.7/logback-core-1.1.7-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/ch/qos/logback/logback-core/1.1.7/logback-core-1.1.7-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/ch/qos/logback/logback-core/1.1.7/logback-core-1.1.7-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/ch/qos/logback/logback-core/1.1.7/logback-core-1.1.7-sources.jar
-[info] 	[SUCCESSFUL ] ch.qos.logback#logback-core;1.1.7!logback-core.jar(src) (3204ms)
+[debug] 	[NOT REQUIRED] ch.qos.logback#logback-core;1.1.7!logback-core.jar(src)
 [debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.20!slf4j-api.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.slf4j/slf4j-api/1.7.20/srcs/slf4j-api-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20-sources.jar
-[info] downloading https://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20-sources.jar
-[info] 	[SUCCESSFUL ] org.slf4j#slf4j-api;1.7.20!slf4j-api.jar(src) (765ms)
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.20!slf4j-api.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play_2.11;2.4.3!play_2.11.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe.play/play_2.11/2.4.3/srcs/play_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play_2.11/2.4.3/play_2.11-2.4.3-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play_2.11/2.4.3/play_2.11-2.4.3-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play_2.11/2.4.3/play_2.11-2.4.3-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play_2.11/2.4.3/play_2.11-2.4.3-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play_2.11/2.4.3/play_2.11-2.4.3-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play_2.11;2.4.3!play_2.11.jar(src) (5551ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play_2.11;2.4.3!play_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#build-link;2.4.3!build-link.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe.play/build-link/2.4.3/srcs/build-link-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/build-link/2.4.3/build-link-2.4.3-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/build-link/2.4.3/build-link-2.4.3-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/build-link/2.4.3/build-link-2.4.3-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/build-link/2.4.3/build-link-2.4.3-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/build-link/2.4.3/build-link-2.4.3-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#build-link;2.4.3!build-link.jar(src) (612ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe.play/play-exceptions/2.4.3/srcs/play-exceptions-sources.jar
+[debug] 	[NOT REQUIRED] com.typesafe.play#build-link;2.4.3!build-link.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-exceptions;2.4.3!play-exceptions.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-exceptions;2.4.3!play-exceptions.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.4.3/play-exceptions-2.4.3-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.4.3/play-exceptions-2.4.3-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.4.3/play-exceptions-2.4.3-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.4.3/play-exceptions-2.4.3-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-exceptions/2.4.3/play-exceptions-2.4.3-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-exceptions;2.4.3!play-exceptions.jar(src) (481ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.javassist/javassist/3.19.0-GA/jars/javassist.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.javassist/javassist/3.19.0-GA/srcs/javassist-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar
-[info] downloading https://jcenter.bintray.com/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar
-[info] 	[SUCCESSFUL ] org.javassist#javassist;3.19.0-GA!javassist.jar (752ms)
-[debug] 		tried https://jcenter.bintray.com/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA-sources.jar
-[info] downloading https://jcenter.bintray.com/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA-sources.jar
-[info] 	[SUCCESSFUL ] org.javassist#javassist;3.19.0-GA!javassist.jar(src) (4013ms)
+[debug] 	[NOT REQUIRED] org.javassist#javassist;3.19.0-GA!javassist.jar
+[debug] 	[NOT REQUIRED] org.javassist#javassist;3.19.0-GA!javassist.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-iteratees_2.11;2.4.3!play-iteratees_2.11.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe.play/play-iteratees_2.11/2.4.3/srcs/play-iteratees_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-iteratees_2.11/2.4.3/play-iteratees_2.11-2.4.3-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-iteratees_2.11/2.4.3/play-iteratees_2.11-2.4.3-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-iteratees_2.11/2.4.3/play-iteratees_2.11-2.4.3-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-iteratees_2.11/2.4.3/play-iteratees_2.11-2.4.3-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-iteratees_2.11/2.4.3/play-iteratees_2.11-2.4.3-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-iteratees_2.11;2.4.3!play-iteratees_2.11.jar(src) (685ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-iteratees_2.11;2.4.3!play-iteratees_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-stm#scala-stm_2.11;0.7!scala-stm_2.11.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scala-stm/scala-stm_2.11/0.7/srcs/scala-stm_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7-sources.jar
-[info] downloading https://jcenter.bintray.com/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scala-stm/scala-stm_2.11/0.7/scala-stm_2.11-0.7-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-stm#scala-stm_2.11;0.7!scala-stm_2.11.jar(src) (949ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe/config/1.3.0/srcs/config-sources.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe/config/1.3.0/jars/config.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/config/1.3.0/config-1.3.0-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/config/1.3.0/config-1.3.0-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/config/1.3.0/config-1.3.0-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/config/1.3.0/config-1.3.0-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/config/1.3.0/config-1.3.0-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe#config;1.3.0!config.jar(src) (1010ms)
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/config/1.3.0/config-1.3.0.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/config/1.3.0/config-1.3.0.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/config/1.3.0/config-1.3.0.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/config/1.3.0/config-1.3.0.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/config/1.3.0/config-1.3.0.jar
-[info] 	[SUCCESSFUL ] com.typesafe#config;1.3.0!config.jar (621ms)
+[debug] 	[NOT REQUIRED] org.scala-stm#scala-stm_2.11;0.7!scala-stm_2.11.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe#config;1.3.0!config.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe#config;1.3.0!config.jar
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-json_2.11;2.4.3!play-json_2.11.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe.play/play-json_2.11/2.4.3/srcs/play-json_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-json_2.11/2.4.3/play-json_2.11-2.4.3-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-json_2.11/2.4.3/play-json_2.11-2.4.3-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-json_2.11/2.4.3/play-json_2.11-2.4.3-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-json_2.11/2.4.3/play-json_2.11-2.4.3-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-json_2.11/2.4.3/play-json_2.11-2.4.3-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-json_2.11;2.4.3!play-json_2.11.jar(src) (667ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-json_2.11;2.4.3!play-json_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-functional_2.11;2.4.3!play-functional_2.11.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe.play/play-functional_2.11/2.4.3/srcs/play-functional_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-functional_2.11/2.4.3/play-functional_2.11-2.4.3-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-functional_2.11/2.4.3/play-functional_2.11-2.4.3-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-functional_2.11/2.4.3/play-functional_2.11-2.4.3-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-functional_2.11/2.4.3/play-functional_2.11-2.4.3-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-functional_2.11/2.4.3/play-functional_2.11-2.4.3-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-functional_2.11;2.4.3!play-functional_2.11.jar(src) (591ms)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-functional_2.11;2.4.3!play-functional_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-datacommons_2.11;2.4.3!play-datacommons_2.11.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe.play/play-datacommons_2.11/2.4.3/srcs/play-datacommons_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-datacommons_2.11/2.4.3/play-datacommons_2.11-2.4.3-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-datacommons_2.11/2.4.3/play-datacommons_2.11-2.4.3-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-datacommons_2.11/2.4.3/play-datacommons_2.11-2.4.3-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-datacommons_2.11/2.4.3/play-datacommons_2.11-2.4.3-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-datacommons_2.11/2.4.3/play-datacommons_2.11-2.4.3-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-datacommons_2.11;2.4.3!play-datacommons_2.11.jar(src) (547ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/joda-time/joda-time/2.8.1/srcs/joda-time-sources.jar
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-datacommons_2.11;2.4.3!play-datacommons_2.11.jar(src)
+[debug] 	[NOT REQUIRED] joda-time#joda-time;2.8.1!joda-time.jar(src)
 [debug] 	[NOT REQUIRED] joda-time#joda-time;2.8.1!joda-time.jar
-[debug] 		tried https://jcenter.bintray.com/joda-time/joda-time/2.8.1/joda-time-2.8.1-sources.jar
-[info] downloading https://jcenter.bintray.com/joda-time/joda-time/2.8.1/joda-time-2.8.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/joda-time/joda-time/2.8.1/joda-time-2.8.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/joda-time/joda-time/2.8.1/joda-time-2.8.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/joda-time/joda-time/2.8.1/joda-time-2.8.1-sources.jar
-[info] 	[SUCCESSFUL ] joda-time#joda-time;2.8.1!joda-time.jar(src) (3471ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.joda/joda-convert/1.7/srcs/joda-convert-sources.jar
+[debug] 	[NOT REQUIRED] org.joda#joda-convert;1.7!joda-convert.jar(src)
 [debug] 	[NOT REQUIRED] org.joda#joda-convert;1.7!joda-convert.jar
-[debug] 		tried https://jcenter.bintray.com/org/joda/joda-convert/1.7/joda-convert-1.7-sources.jar
-[info] downloading https://jcenter.bintray.com/org/joda/joda-convert/1.7/joda-convert-1.7-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/joda/joda-convert/1.7/joda-convert-1.7-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/joda/joda-convert/1.7/joda-convert-1.7-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/joda/joda-convert/1.7/joda-convert-1.7-sources.jar
-[info] 	[SUCCESSFUL ] org.joda#joda-convert;1.7!joda-convert.jar(src) (661ms)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scala-lang/scala-reflect/2.11.6/srcs/scala-reflect-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-sources.jar
-[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.6/scala-reflect-2.11.6-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar(src) (6065ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.fasterxml.jackson.core/jackson-core/2.5.4/jars/jackson-core.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.fasterxml.jackson.core/jackson-core/2.5.4/srcs/jackson-core-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.5.4/jackson-core-2.5.4.jar
-[info] downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.5.4/jackson-core-2.5.4.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.5.4/jackson-core-2.5.4.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.5.4/jackson-core-2.5.4.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.5.4/jackson-core-2.5.4.jar
-[info] 	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-core;2.5.4!jackson-core.jar (558ms)
-[debug] 		tried https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.5.4/jackson-core-2.5.4-sources.jar
-[info] downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.5.4/jackson-core-2.5.4-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.5.4/jackson-core-2.5.4-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.5.4/jackson-core-2.5.4-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.5.4/jackson-core-2.5.4-sources.jar
-[info] 	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-core;2.5.4!jackson-core.jar(src) (4355ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.fasterxml.jackson.core/jackson-annotations/2.5.4/srcs/jackson-annotations-sources.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.fasterxml.jackson.core/jackson-annotations/2.5.4/jars/jackson-annotations.jar
-[debug] 		tried https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.5.4/jackson-annotations-2.5.4-sources.jar
-[info] downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.5.4/jackson-annotations-2.5.4-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.5.4/jackson-annotations-2.5.4-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.5.4/jackson-annotations-2.5.4-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.5.4/jackson-annotations-2.5.4-sources.jar
-[info] 	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-annotations;2.5.4!jackson-annotations.jar(src) (738ms)
-[debug] 		tried https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.5.4/jackson-annotations-2.5.4.jar
-[info] downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.5.4/jackson-annotations-2.5.4.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.5.4/jackson-annotations-2.5.4.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.5.4/jackson-annotations-2.5.4.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-annotations/2.5.4/jackson-annotations-2.5.4.jar
-[info] 	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-annotations;2.5.4!jackson-annotations.jar (488ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.fasterxml.jackson.core/jackson-databind/2.5.4/srcs/jackson-databind-sources.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.fasterxml.jackson.core/jackson-databind/2.5.4/jars/jackson-databind.jar
-[debug] 		tried https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.5.4/jackson-databind-2.5.4-sources.jar
-[info] downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.5.4/jackson-databind-2.5.4-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.5.4/jackson-databind-2.5.4-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.5.4/jackson-databind-2.5.4-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.5.4/jackson-databind-2.5.4-sources.jar
-[info] 	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-databind;2.5.4!jackson-databind.jar(src) (4423ms)
-[debug] 		tried https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.5.4/jackson-databind-2.5.4.jar
-[info] downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.5.4/jackson-databind-2.5.4.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.5.4/jackson-databind-2.5.4.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.5.4/jackson-databind-2.5.4.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-databind/2.5.4/jackson-databind-2.5.4.jar
-[info] 	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-databind;2.5.4!jackson-databind.jar (848ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.5.4/srcs/jackson-datatype-jdk8-sources.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.5.4/jars/jackson-datatype-jdk8.jar
-[debug] 		tried https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.5.4/jackson-datatype-jdk8-2.5.4-sources.jar
-[info] downloading https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.5.4/jackson-datatype-jdk8-2.5.4-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.5.4/jackson-datatype-jdk8-2.5.4-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.5.4/jackson-datatype-jdk8-2.5.4-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.5.4/jackson-datatype-jdk8-2.5.4-sources.jar
-[info] 	[SUCCESSFUL ] com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4!jackson-datatype-jdk8.jar(src) (552ms)
-[debug] 		tried https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.5.4/jackson-datatype-jdk8-2.5.4.jar
-[info] downloading https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.5.4/jackson-datatype-jdk8-2.5.4.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.5.4/jackson-datatype-jdk8-2.5.4.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.5.4/jackson-datatype-jdk8-2.5.4.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.5.4/jackson-datatype-jdk8-2.5.4.jar
-[info] 	[SUCCESSFUL ] com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4!jackson-datatype-jdk8.jar (416ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.5.4/jars/jackson-datatype-jsr310.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.5.4/srcs/jackson-datatype-jsr310-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.5.4/jackson-datatype-jsr310-2.5.4.jar
-[info] downloading https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.5.4/jackson-datatype-jsr310-2.5.4.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.5.4/jackson-datatype-jsr310-2.5.4.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.5.4/jackson-datatype-jsr310-2.5.4.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.5.4/jackson-datatype-jsr310-2.5.4.jar
-[info] 	[SUCCESSFUL ] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4!jackson-datatype-jsr310.jar (523ms)
-[debug] 		tried https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.5.4/jackson-datatype-jsr310-2.5.4-sources.jar
-[info] downloading https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.5.4/jackson-datatype-jsr310-2.5.4-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.5.4/jackson-datatype-jsr310-2.5.4-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.5.4/jackson-datatype-jsr310-2.5.4-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.5.4/jackson-datatype-jsr310-2.5.4-sources.jar
-[info] 	[SUCCESSFUL ] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4!jackson-datatype-jsr310.jar(src) (604ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe.play/play-netty-utils/2.4.3/srcs/play-netty-utils-sources.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-core;2.5.4!jackson-core.jar
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-core;2.5.4!jackson-core.jar(src)
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-annotations;2.5.4!jackson-annotations.jar(src)
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-annotations;2.5.4!jackson-annotations.jar
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-databind;2.5.4!jackson-databind.jar(src)
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-databind;2.5.4!jackson-databind.jar
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4!jackson-datatype-jdk8.jar(src)
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4!jackson-datatype-jdk8.jar
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4!jackson-datatype-jsr310.jar
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4!jackson-datatype-jsr310.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-netty-utils;2.4.3!play-netty-utils.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-netty-utils;2.4.3!play-netty-utils.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/play-netty-utils/2.4.3/play-netty-utils-2.4.3-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/play-netty-utils/2.4.3/play-netty-utils-2.4.3-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-netty-utils/2.4.3/play-netty-utils-2.4.3-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/play-netty-utils/2.4.3/play-netty-utils-2.4.3-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/play-netty-utils/2.4.3/play-netty-utils-2.4.3-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#play-netty-utils;2.4.3!play-netty-utils.jar(src) (539ms)
 [debug] 	[NOT REQUIRED] org.slf4j#jul-to-slf4j;1.7.12!jul-to-slf4j.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.slf4j/jul-to-slf4j/1.7.12/srcs/jul-to-slf4j-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/slf4j/jul-to-slf4j/1.7.12/jul-to-slf4j-1.7.12-sources.jar
-[info] downloading https://jcenter.bintray.com/org/slf4j/jul-to-slf4j/1.7.12/jul-to-slf4j-1.7.12-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/slf4j/jul-to-slf4j/1.7.12/jul-to-slf4j-1.7.12-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/slf4j/jul-to-slf4j/1.7.12/jul-to-slf4j-1.7.12-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/slf4j/jul-to-slf4j/1.7.12/jul-to-slf4j-1.7.12-sources.jar
-[info] 	[SUCCESSFUL ] org.slf4j#jul-to-slf4j;1.7.12!jul-to-slf4j.jar(src) (493ms)
+[debug] 	[NOT REQUIRED] org.slf4j#jul-to-slf4j;1.7.12!jul-to-slf4j.jar(src)
 [debug] 	[NOT REQUIRED] org.slf4j#jcl-over-slf4j;1.7.12!jcl-over-slf4j.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.slf4j/jcl-over-slf4j/1.7.12/srcs/jcl-over-slf4j-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/slf4j/jcl-over-slf4j/1.7.12/jcl-over-slf4j-1.7.12-sources.jar
-[info] downloading https://jcenter.bintray.com/org/slf4j/jcl-over-slf4j/1.7.12/jcl-over-slf4j-1.7.12-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/slf4j/jcl-over-slf4j/1.7.12/jcl-over-slf4j-1.7.12-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/slf4j/jcl-over-slf4j/1.7.12/jcl-over-slf4j-1.7.12-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/slf4j/jcl-over-slf4j/1.7.12/jcl-over-slf4j-1.7.12-sources.jar
-[info] 	[SUCCESSFUL ] org.slf4j#jcl-over-slf4j;1.7.12!jcl-over-slf4j.jar(src) (610ms)
+[debug] 	[NOT REQUIRED] org.slf4j#jcl-over-slf4j;1.7.12!jcl-over-slf4j.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#twirl-api_2.11;1.1.1!twirl-api_2.11.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe.play/twirl-api_2.11/1.1.1/srcs/twirl-api_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/play/twirl-api_2.11/1.1.1/twirl-api_2.11-1.1.1-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/play/twirl-api_2.11/1.1.1/twirl-api_2.11-1.1.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/twirl-api_2.11/1.1.1/twirl-api_2.11-1.1.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/play/twirl-api_2.11/1.1.1/twirl-api_2.11-1.1.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/play/twirl-api_2.11/1.1.1/twirl-api_2.11-1.1.1-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.play#twirl-api_2.11;1.1.1!twirl-api_2.11.jar(src) (569ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.apache.commons/commons-lang3/3.4/srcs/commons-lang3-sources.jar
+[debug] 	[NOT REQUIRED] com.typesafe.play#twirl-api_2.11;1.1.1!twirl-api_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-lang3;3.4!commons-lang3.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.commons#commons-lang3;3.4!commons-lang3.jar
-[debug] 		tried https://jcenter.bintray.com/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4-sources.jar
-[info] downloading https://jcenter.bintray.com/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4-sources.jar
-[info] 	[SUCCESSFUL ] org.apache.commons#commons-lang3;3.4!commons-lang3.jar(src) (888ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.1/jars/scala-parser-combinators_2.11.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.1/srcs/scala-parser-combinators_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
-[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1!scala-parser-combinators_2.11.jar (632ms)
-[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar
-[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1!scala-parser-combinators_2.11.jar(src) (691ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe.akka/akka-actor_2.11/2.3.13/srcs/akka-actor_2.11-sources.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1!scala-parser-combinators_2.11.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1!scala-parser-combinators_2.11.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.3.13!akka-actor_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.11;2.3.13!akka-actor_2.11.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/akka/akka-actor_2.11/2.3.13/akka-actor_2.11-2.3.13-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/akka/akka-actor_2.11/2.3.13/akka-actor_2.11-2.3.13-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/akka/akka-actor_2.11/2.3.13/akka-actor_2.11-2.3.13-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/akka/akka-actor_2.11/2.3.13/akka-actor_2.11-2.3.13-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/akka/akka-actor_2.11/2.3.13/akka-actor_2.11-2.3.13-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.11;2.3.13!akka-actor_2.11.jar(src) (8684ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.typesafe.akka/akka-slf4j_2.11/2.3.13/srcs/akka-slf4j_2.11-sources.jar
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-slf4j_2.11;2.3.13!akka-slf4j_2.11.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-slf4j_2.11;2.3.13!akka-slf4j_2.11.jar
-[debug] 		tried https://jcenter.bintray.com/com/typesafe/akka/akka-slf4j_2.11/2.3.13/akka-slf4j_2.11-2.3.13-sources.jar
-[info] downloading https://jcenter.bintray.com/com/typesafe/akka/akka-slf4j_2.11/2.3.13/akka-slf4j_2.11-2.3.13-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/akka/akka-slf4j_2.11/2.3.13/akka-slf4j_2.11-2.3.13-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/typesafe/akka/akka-slf4j_2.11/2.3.13/akka-slf4j_2.11-2.3.13-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/typesafe/akka/akka-slf4j_2.11/2.3.13/akka-slf4j_2.11-2.3.13-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-slf4j_2.11;2.3.13!akka-slf4j_2.11.jar(src) (486ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/commons-codec/commons-codec/1.10/srcs/commons-codec-sources.jar
+[debug] 	[NOT REQUIRED] commons-codec#commons-codec;1.10!commons-codec.jar(src)
 [debug] 	[NOT REQUIRED] commons-codec#commons-codec;1.10!commons-codec.jar
-[debug] 		tried https://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar
-[info] downloading https://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar
-[info] 	[SUCCESSFUL ] commons-codec#commons-codec;1.10!commons-codec.jar(src) (5454ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/xerces/xercesImpl/2.11.0/srcs/xercesImpl-sources.jar
+[debug] 	[NOT REQUIRED] xerces#xercesImpl;2.11.0!xercesImpl.jar(src)
 [debug] 	[NOT REQUIRED] xerces#xercesImpl;2.11.0!xercesImpl.jar
-[debug] 		tried https://jcenter.bintray.com/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0-sources.jar
-[info] downloading https://jcenter.bintray.com/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0-sources.jar
-[info] 	[SUCCESSFUL ] xerces#xercesImpl;2.11.0!xercesImpl.jar(src) (4400ms)
 [debug] 	[NOT REQUIRED] xml-apis#xml-apis;1.4.01!xml-apis.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/xml-apis/xml-apis/1.4.01/srcs/xml-apis-sources.jar
-[debug] 		tried https://jcenter.bintray.com/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01-sources.jar
-[info] downloading https://jcenter.bintray.com/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01-sources.jar
-[info] 	[SUCCESSFUL ] xml-apis#xml-apis;1.4.01!xml-apis.jar(src) (5527ms)
+[debug] 	[NOT REQUIRED] xml-apis#xml-apis;1.4.01!xml-apis.jar(src)
 [debug] 	[NOT REQUIRED] javax.transaction#jta;1.1!jta.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/javax.transaction/jta/1.1/srcs/jta-sources.jar
-[debug] 		tried https://jcenter.bintray.com/javax/transaction/jta/1.1/jta-1.1-sources.jar
-[info] downloading https://jcenter.bintray.com/javax/transaction/jta/1.1/jta-1.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/javax/transaction/jta/1.1/jta-1.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/javax/transaction/jta/1.1/jta-1.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/javax/transaction/jta/1.1/jta-1.1-sources.jar
-[info] 	[SUCCESSFUL ] javax.transaction#jta;1.1!jta.jar(src) (663ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.google.inject/guice/4.0/srcs/guice-sources.jar
+[debug] 	[NOT REQUIRED] javax.transaction#jta;1.1!jta.jar(src)
+[debug] 	[NOT REQUIRED] com.google.inject#guice;4.0!guice.jar(src)
 [debug] 	[NOT REQUIRED] com.google.inject#guice;4.0!guice.jar
-[debug] 		tried https://jcenter.bintray.com/com/google/inject/guice/4.0/guice-4.0-sources.jar
-[info] downloading https://jcenter.bintray.com/com/google/inject/guice/4.0/guice-4.0-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/inject/guice/4.0/guice-4.0-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/inject/guice/4.0/guice-4.0-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/google/inject/guice/4.0/guice-4.0-sources.jar
-[info] 	[SUCCESSFUL ] com.google.inject#guice;4.0!guice.jar(src) (2017ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/javax.inject/javax.inject/1/srcs/javax.inject-sources.jar
+[debug] 	[NOT REQUIRED] javax.inject#javax.inject;1!javax.inject.jar(src)
 [debug] 	[NOT REQUIRED] javax.inject#javax.inject;1!javax.inject.jar
-[debug] 		tried https://jcenter.bintray.com/javax/inject/javax.inject/1/javax.inject-1-sources.jar
-[info] downloading https://jcenter.bintray.com/javax/inject/javax.inject/1/javax.inject-1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/javax/inject/javax.inject/1/javax.inject-1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/javax/inject/javax.inject/1/javax.inject-1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/javax/inject/javax.inject/1/javax.inject-1-sources.jar
-[info] 	[SUCCESSFUL ] javax.inject#javax.inject;1!javax.inject.jar(src) (567ms)
 [debug] 	[NOT REQUIRED] aopalliance#aopalliance;1.0!aopalliance.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/aopalliance/aopalliance/1.0/srcs/aopalliance-sources.jar
-[debug] 		tried https://jcenter.bintray.com/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar
-[info] downloading https://jcenter.bintray.com/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar
-[info] 	[SUCCESSFUL ] aopalliance#aopalliance;1.0!aopalliance.jar(src) (577ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.google.guava/guava/16.0.1/srcs/guava-sources.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.google.guava/guava/16.0.1/jars/guava.jar
-[debug] 		tried https://jcenter.bintray.com/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar
-[info] downloading https://jcenter.bintray.com/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar
-[info] 	[SUCCESSFUL ] com.google.guava#guava;16.0.1!guava.jar(src) (4414ms)
-[debug] 		tried https://jcenter.bintray.com/com/google/guava/guava/16.0.1/guava-16.0.1.jar
-[info] downloading https://jcenter.bintray.com/com/google/guava/guava/16.0.1/guava-16.0.1.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/guava/guava/16.0.1/guava-16.0.1.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/guava/guava/16.0.1/guava-16.0.1.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/google/guava/guava/16.0.1/guava-16.0.1.jar
-[info] 	[SUCCESSFUL ] com.google.guava#guava;16.0.1!guava.jar (1525ms)
+[debug] 	[NOT REQUIRED] aopalliance#aopalliance;1.0!aopalliance.jar(src)
+[debug] 	[NOT REQUIRED] com.google.guava#guava;16.0.1!guava.jar(src)
+[debug] 	[NOT REQUIRED] com.google.guava#guava;16.0.1!guava.jar
 [debug] 	[NOT REQUIRED] com.google.inject.extensions#guice-assistedinject;4.0!guice-assistedinject.jar
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.google.inject.extensions/guice-assistedinject/4.0/srcs/guice-assistedinject-sources.jar
-[debug] 		tried https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0-sources.jar
-[info] downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0-sources.jar
-[info] 	[SUCCESSFUL ] com.google.inject.extensions#guice-assistedinject;4.0!guice-assistedinject.jar(src) (672ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scala-lang/scala-compiler/2.11.7/srcs/scala-compiler-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7-sources.jar
-[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.7/scala-compiler-2.11.7-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar(src) (3631ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scala-lang/scala-reflect/2.11.7/srcs/scala-reflect-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar
-[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.7!scala-reflect.jar(src) (5622ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.4/srcs/scala-xml_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4-sources.jar
-[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src) (877ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/srcs/scala-parser-combinators_2.11-sources.jar
-[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar
-[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src) (616ms)
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/jline/jline/2.12.1/srcs/jline-sources.jar
-[debug] 		tried https://jcenter.bintray.com/jline/jline/2.12.1/jline-2.12.1-sources.jar
-[info] downloading https://jcenter.bintray.com/jline/jline/2.12.1/jline-2.12.1-sources.jar ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/jline/jline/2.12.1/jline-2.12.1-sources.jar
-[debug] 	jcenter: downloading https://jcenter.bintray.com/jline/jline/2.12.1/jline-2.12.1-sources.jar.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/jline/jline/2.12.1/jline-2.12.1-sources.jar
-[info] 	[SUCCESSFUL ] jline#jline;2.12.1!jline.jar(src) (751ms)
-[debug] :: resolution report :: resolve 1289ms :: artifacts dl 178435ms
-[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
-[warn] 	::              FAILED DOWNLOADS            ::
-[warn] 	:: ^ see resolution messages for details  ^ ::
-[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
-[warn] 	:: edu.illinois.cs.cogcomp#jwnl-prime;1.0.4!jwnl-prime.jar(src)
-[warn] 	:: edu.illinois.cs.cogcomp#wordnet;1.0-binary!wordnet.jar(src)
-[warn] 	:: edu.princeton#wordnet-dict;3.1!wordnet-dict.jar(src)
-[warn] 	:: com.gurobi#gurobi;6.0!gurobi.jar(src)
-[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[debug] 	[NOT REQUIRED] com.google.inject.extensions#guice-assistedinject;4.0!guice-assistedinject.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.7!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
+[debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
+[debug] :: resolution report :: resolve 10231ms :: artifacts dl 238ms
 [debug] 	report for usesaul#usesaul$sources_2.11;1.0 compile produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-compile.xml
 [debug] 	report for usesaul#usesaul$sources_2.11;1.0 runtime produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-runtime.xml
 [debug] 	report for usesaul#usesaul$sources_2.11;1.0 test produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-test.xml
@@ -4882,4 +4089,4 @@
 [debug] 	report for usesaul#usesaul$sources_2.11;1.0 docs produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-docs.xml
 [debug] 	report for usesaul#usesaul$sources_2.11;1.0 pom produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-pom.xml
 [debug] 	report for usesaul#usesaul$sources_2.11;1.0 scala-tool produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-scala-tool.xml
-[debug] 	resolve done (1289ms resolve - 178435ms download)
+[debug] 	resolve done (10231ms resolve - 238ms download)
