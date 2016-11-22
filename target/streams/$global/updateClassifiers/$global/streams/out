@@ -10,7 +10,7 @@
 [debug] == resolving dependencies for usesaul#usesaul$sources_2.11;1.0 [compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d778c3a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b0571e5
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7
 [debug] 	found org.scala-lang#scala-library;2.11.7 in sbt-chain
 [debug] 	[2.11.7] org.scala-lang#scala-library;2.11.7
@@ -19,7 +19,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang#scala-library;2.11.7 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#saul_2.11;0.5 [compile->default(compile)]
 [info] Resolving edu.illinois.cs.cogcomp#saul_2.11;0.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48a5796b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4750fc86
 [debug] sbt-chain: module revision found in cache: edu.illinois.cs.cogcomp#saul_2.11;0.5
 [debug] 	found edu.illinois.cs.cogcomp#saul_2.11;0.5 in sbt-chain
 [debug] 	[0.5] edu.illinois.cs.cogcomp#saul_2.11;0.5
@@ -28,7 +28,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#saul_2.11;0.5 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#LBJava;1.2.20 [compile->default(compile)]
 [info] Resolving edu.illinois.cs.cogcomp#LBJava;1.2.20 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@788ddf10
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@204fe7e7
 [debug] sbt-chain: module revision found in cache: edu.illinois.cs.cogcomp#LBJava;1.2.20
 [debug] 	found edu.illinois.cs.cogcomp#LBJava;1.2.20 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#LBJava;1.2.20 [compile->runtime]
@@ -36,7 +36,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#LBJava;1.2.20 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->nz.ac.waikato.cms.weka#weka-stable;3.6.10 [compile->default(compile)]
 [info] Resolving nz.ac.waikato.cms.weka#weka-stable;3.6.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@557a6489
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68b89c27
 [debug] sbt-chain: module revision found in cache: nz.ac.waikato.cms.weka#weka-stable;3.6.10
 [debug] 	found nz.ac.waikato.cms.weka#weka-stable;3.6.10 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->nz.ac.waikato.cms.weka#weka-stable;3.6.10 [compile->runtime]
@@ -44,7 +44,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->nz.ac.waikato.cms.weka#weka-stable;3.6.10 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a [compile->default(compile)]
 [info] Resolving net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@171f18a9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e697d7b
 [debug] sbt-chain: module revision found in cache: net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a
 [debug] 	found net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a [compile->runtime]
@@ -52,7 +52,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.squirrel-sql.thirdparty-non-maven#java-cup;0.11a [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->de.bwaldvogel#liblinear;1.94 [compile->default(compile)]
 [info] Resolving de.bwaldvogel#liblinear;1.94 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e708e38
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d940fbc
 [debug] sbt-chain: module revision found in cache: de.bwaldvogel#liblinear;1.94
 [debug] 	found de.bwaldvogel#liblinear;1.94 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->de.bwaldvogel#liblinear;1.94 [compile->runtime]
@@ -60,23 +60,15 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->de.bwaldvogel#liblinear;1.94 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->default(compile)]
 [info] Resolving org.ojalgo#ojalgo;37.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e2e912
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f31a165
 [debug] sbt-chain: module revision found in cache: org.ojalgo#ojalgo;37.1.1
 [debug] 	found org.ojalgo#ojalgo;37.1.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->default(compile)]
-[info] Resolving org.apache.commons#commons-math3;3.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7e970ed2
-[debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.6
-[debug] 	found org.apache.commons#commons-math3;3.6 in sbt-chain
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->default(compile)]
 [info] Resolving edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6168b3c6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ceafd88
 [debug] sbt-chain: module revision found in cache: edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64
 [debug] 	found edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->runtime]
@@ -84,7 +76,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69a20388
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30e5bf70
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.1
 [debug] 	found commons-logging#commons-logging;1.1.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->runtime]
@@ -92,7 +84,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->default(compile)]
 [info] Resolving junit#junit;4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24b9c269
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d9f7090
 [debug] sbt-chain: module revision found in cache: junit#junit;4.4
 [debug] 	found junit#junit;4.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->runtime]
@@ -100,7 +92,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->junit#junit;4.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.trove4j#trove4j;3.0.3 [compile->default(compile)]
 [info] Resolving net.sf.trove4j#trove4j;3.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44763bd2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a8db3a8
 [debug] sbt-chain: module revision found in cache: net.sf.trove4j#trove4j;3.0.3
 [debug] 	found net.sf.trove4j#trove4j;3.0.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.trove4j#trove4j;3.0.3 [compile->runtime]
@@ -108,7 +100,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.trove4j#trove4j;3.0.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.6.1 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-log4j12;1.6.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6773dcb6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cf9a0cf
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-log4j12;1.6.1
 [debug] 	found org.slf4j#slf4j-log4j12;1.6.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.6.1 [compile->runtime]
@@ -116,7 +108,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#slf4j-log4j12;1.6.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->log4j#log4j;1.2.16 [compile->default(compile)]
 [info] Resolving log4j#log4j;1.2.16 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d91fbfa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2833b155
 [debug] sbt-chain: module revision found in cache: log4j#log4j;1.2.16
 [debug] 	found log4j#log4j;1.2.16 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->log4j#log4j;1.2.16 [compile->runtime]
@@ -124,7 +116,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->log4j#log4j;1.2.16 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-io#commons-io;1.3.2 [compile->default(compile)]
 [info] Resolving commons-io#commons-io;1.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61de86aa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6196f2d0
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;1.3.2
 [debug] 	found commons-io#commons-io;1.3.2 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-io#commons-io;1.3.2 [compile->runtime]
@@ -132,7 +124,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-io#commons-io;1.3.2 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-lang#commons-lang;2.3 [compile->default(compile)]
 [info] Resolving commons-lang#commons-lang;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9de15df
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69bcefe5
 [debug] sbt-chain: module revision found in cache: commons-lang#commons-lang;2.3
 [debug] 	found commons-lang#commons-lang;2.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-lang#commons-lang;2.3 [compile->runtime]
@@ -140,7 +132,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-lang#commons-lang;2.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.ehcache#ehcache;2.8.3 [compile->default(compile)]
 [info] Resolving net.sf.ehcache#ehcache;2.8.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28fe3de6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@798ad6b8
 [debug] sbt-chain: module revision found in cache: net.sf.ehcache#ehcache;2.8.3
 [debug] 	found net.sf.ehcache#ehcache;2.8.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.ehcache#ehcache;2.8.3 [compile->runtime]
@@ -148,7 +140,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->net.sf.ehcache#ehcache;2.8.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.googlecode.json-simple#json-simple;1.1 [compile->default(compile)]
 [info] Resolving com.googlecode.json-simple#json-simple;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49a5892f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@298864c0
 [debug] sbt-chain: module revision found in cache: com.googlecode.json-simple#json-simple;1.1
 [debug] 	found com.googlecode.json-simple#json-simple;1.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.googlecode.json-simple#json-simple;1.1 [compile->runtime]
@@ -156,7 +148,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.googlecode.json-simple#json-simple;1.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->default(compile)]
 [info] Resolving com.google.code.gson#gson;2.3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3db24a05
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c812ee5
 [debug] sbt-chain: module revision found in cache: com.google.code.gson#gson;2.3.1
 [debug] 	found com.google.code.gson#gson;2.3.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->runtime]
@@ -164,15 +156,23 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.code.gson#gson;2.3.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->default(compile)]
 [info] Resolving com.h2database#h2;1.4.191 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37dd9ae5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2aac3462
 [debug] sbt-chain: module revision found in cache: com.h2database#h2;1.4.191
 [debug] 	found com.h2database#h2;1.4.191 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->default(compile)]
+[info] Resolving org.apache.commons#commons-math3;3.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4bc528f
+[debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.0
+[debug] 	found org.apache.commons#commons-math3;3.0 in sbt-chain
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [info] Resolving org.scalatest#scalatest_2.11;2.2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24ae1d62
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48a18947
 [debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.4
 [debug] 	found org.scalatest#scalatest_2.11;2.2.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
@@ -180,7 +180,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2bb5f633
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@128e93f1
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime]
@@ -188,7 +188,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->ch.qos.logback#logback-classic;1.1.7 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-classic;1.1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a438682
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78f9706b
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-classic;1.1.7
 [debug] 	found ch.qos.logback#logback-classic;1.1.7 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->ch.qos.logback#logback-classic;1.1.7 [compile->runtime]
@@ -196,7 +196,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->ch.qos.logback#logback-classic;1.1.7 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->ch.qos.logback#logback-core;1.1.7 [compile->default(compile)]
 [info] Resolving ch.qos.logback#logback-core;1.1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1ea30ae2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6ec0b5bb
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-core;1.1.7
 [debug] 	found ch.qos.logback#logback-core;1.1.7 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->ch.qos.logback#logback-core;1.1.7 [compile->runtime]
@@ -204,7 +204,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->ch.qos.logback#logback-core;1.1.7 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.20 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.20 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5eadd86
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50ba5d4c
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.20
 [debug] 	found org.slf4j#slf4j-api;1.7.20 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.20 [compile->runtime]
@@ -212,7 +212,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#slf4j-api;1.7.20 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@326294aa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ecc08f5
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play_2.11;2.4.3
 [debug] 	found com.typesafe.play#play_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play_2.11;2.4.3 [compile->runtime]
@@ -220,7 +220,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#build-link;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#build-link;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b5fbda7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@770d191c
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#build-link;2.4.3
 [debug] 	found com.typesafe.play#build-link;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#build-link;2.4.3 [compile->runtime]
@@ -228,7 +228,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#build-link;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-exceptions;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-exceptions;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ce149d8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c330e3c
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-exceptions;2.4.3
 [debug] 	found com.typesafe.play#play-exceptions;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-exceptions;2.4.3 [compile->runtime]
@@ -236,7 +236,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-exceptions;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.javassist#javassist;3.19.0-GA [compile->default(compile)]
 [info] Resolving org.javassist#javassist;3.19.0-GA ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52ee67d5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3deee015
 [debug] sbt-chain: module revision found in cache: org.javassist#javassist;3.19.0-GA
 [debug] 	found org.javassist#javassist;3.19.0-GA in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.javassist#javassist;3.19.0-GA [compile->runtime]
@@ -244,7 +244,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.javassist#javassist;3.19.0-GA [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-iteratees_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30abd34c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ad4d8b8
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-iteratees_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-iteratees_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.3 [compile->runtime]
@@ -252,7 +252,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-iteratees_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->default(compile)]
 [info] Resolving org.scala-stm#scala-stm_2.11;0.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22272d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34857725
 [debug] sbt-chain: module revision found in cache: org.scala-stm#scala-stm_2.11;0.7
 [debug] 	found org.scala-stm#scala-stm_2.11;0.7 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->runtime]
@@ -260,7 +260,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-stm#scala-stm_2.11;0.7 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7086d215
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@355ab794
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.0
 [debug] 	found com.typesafe#config;1.3.0 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->runtime]
@@ -268,7 +268,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe#config;1.3.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-json_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f8fa90c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a5db068
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-json_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-json_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.3 [compile->runtime]
@@ -276,7 +276,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-json_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-functional_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ea73d9a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e805765
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-functional_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-functional_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.3 [compile->runtime]
@@ -284,7 +284,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-functional_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-datacommons_2.11;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a562dd8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6af9ff91
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-datacommons_2.11;2.4.3
 [debug] 	found com.typesafe.play#play-datacommons_2.11;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.3 [compile->runtime]
@@ -292,7 +292,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-datacommons_2.11;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->joda-time#joda-time;2.8.1 [compile->default(compile)]
 [info] Resolving joda-time#joda-time;2.8.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3474f933
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d2a944a
 [debug] sbt-chain: module revision found in cache: joda-time#joda-time;2.8.1
 [debug] 	found joda-time#joda-time;2.8.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->joda-time#joda-time;2.8.1 [compile->runtime]
@@ -300,7 +300,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->joda-time#joda-time;2.8.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.joda#joda-convert;1.7 [compile->default(compile)]
 [info] Resolving org.joda#joda-convert;1.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@16fd0d77
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4394bae6
 [debug] sbt-chain: module revision found in cache: org.joda#joda-convert;1.7
 [debug] 	found org.joda#joda-convert;1.7 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.joda#joda-convert;1.7 [compile->runtime]
@@ -308,7 +308,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.joda#joda-convert;1.7 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.6 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e36f6ab
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15e4ed47
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.6
 [debug] 	found org.scala-lang#scala-reflect;2.11.6 in sbt-chain
 [debug] 	[2.11.6] org.scala-lang#scala-reflect;2.11.6
@@ -317,7 +317,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.6 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c6656d4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33935a13
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.5.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->runtime]
@@ -325,7 +325,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-core;2.5.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@20734c3d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50099a0a
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.5.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->runtime]
@@ -333,7 +333,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-annotations;2.5.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@8155d9d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@187aae70
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.5.4
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.5.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->runtime]
@@ -341,7 +341,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.core#jackson-databind;2.5.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@47606c9a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@48284251
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->runtime]
@@ -349,7 +349,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.5.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33740e02
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35001ea0
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4
 [debug] 	found com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->runtime]
@@ -357,7 +357,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.5.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-netty-utils;2.4.3 [compile->default(compile)]
 [info] Resolving com.typesafe.play#play-netty-utils;2.4.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60b29aaf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@13be74d
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#play-netty-utils;2.4.3
 [debug] 	found com.typesafe.play#play-netty-utils;2.4.3 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-netty-utils;2.4.3 [compile->runtime]
@@ -365,7 +365,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#play-netty-utils;2.4.3 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.12 [compile->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@355af6dd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d517236
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.12
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.12 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.12 [compile->runtime]
@@ -373,7 +373,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#jul-to-slf4j;1.7.12 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.12 [compile->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.12 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@249f9186
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60e36600
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.12
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.12 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.12 [compile->runtime]
@@ -381,7 +381,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.slf4j#jcl-over-slf4j;1.7.12 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->default(compile)]
 [info] Resolving com.typesafe.play#twirl-api_2.11;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b8e758a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52143936
 [debug] sbt-chain: module revision found in cache: com.typesafe.play#twirl-api_2.11;1.1.1
 [debug] 	found com.typesafe.play#twirl-api_2.11;1.1.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->runtime]
@@ -389,7 +389,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.play#twirl-api_2.11;1.1.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-lang3;3.4 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6e6bbe30
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70a114a1
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.4
 [debug] 	found org.apache.commons#commons-lang3;3.4 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-lang3;3.4 [compile->runtime]
@@ -397,7 +397,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-lang3;3.4 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fea13a3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26729168
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->runtime]
@@ -405,7 +405,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.13 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-actor_2.11;2.3.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1467f6e4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@18c49dba
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.11;2.3.13
 [debug] 	found com.typesafe.akka#akka-actor_2.11;2.3.13 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.13 [compile->runtime]
@@ -413,7 +413,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.akka#akka-actor_2.11;2.3.13 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.13 [compile->default(compile)]
 [info] Resolving com.typesafe.akka#akka-slf4j_2.11;2.3.13 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e20daff
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@191b2b32
 [debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-slf4j_2.11;2.3.13
 [debug] 	found com.typesafe.akka#akka-slf4j_2.11;2.3.13 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.13 [compile->runtime]
@@ -421,7 +421,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.typesafe.akka#akka-slf4j_2.11;2.3.13 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@81457f4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1da2246
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.10
 [debug] 	found commons-codec#commons-codec;1.10 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->runtime]
@@ -429,7 +429,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->commons-codec#commons-codec;1.10 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->xerces#xercesImpl;2.11.0 [compile->default(compile)]
 [info] Resolving xerces#xercesImpl;2.11.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34677e51
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a942749
 [debug] sbt-chain: module revision found in cache: xerces#xercesImpl;2.11.0
 [debug] 	found xerces#xercesImpl;2.11.0 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->xerces#xercesImpl;2.11.0 [compile->runtime]
@@ -437,7 +437,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->xerces#xercesImpl;2.11.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->xml-apis#xml-apis;1.4.01 [compile->default(compile)]
 [info] Resolving xml-apis#xml-apis;1.4.01 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e533e97
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d0c3364
 [debug] sbt-chain: module revision found in cache: xml-apis#xml-apis;1.4.01
 [debug] 	found xml-apis#xml-apis;1.4.01 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->xml-apis#xml-apis;1.4.01 [compile->runtime]
@@ -445,7 +445,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->xml-apis#xml-apis;1.4.01 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->default(compile)]
 [info] Resolving javax.transaction#jta;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36be27da
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a3f6091
 [debug] sbt-chain: module revision found in cache: javax.transaction#jta;1.1
 [debug] 	found javax.transaction#jta;1.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->runtime]
@@ -453,7 +453,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->javax.transaction#jta;1.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject#guice;4.0 [compile->default(compile)]
 [info] Resolving com.google.inject#guice;4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@456d6336
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ccef9d7
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;4.0
 [debug] 	found com.google.inject#guice;4.0 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject#guice;4.0 [compile->runtime]
@@ -461,7 +461,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject#guice;4.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bcad994
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@592647ef
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->runtime]
@@ -469,7 +469,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->javax.inject#javax.inject;1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f6f46de
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19eeb698
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->runtime]
@@ -477,7 +477,7 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->aopalliance#aopalliance;1.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.guava#guava;16.0.1 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;16.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@216cfd34
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e90903b
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;16.0.1
 [debug] 	found com.google.guava#guava;16.0.1 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.guava#guava;16.0.1 [compile->runtime]
@@ -485,23 +485,9 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.guava#guava;16.0.1 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->default(compile)]
 [info] Resolving com.google.inject.extensions#guice-assistedinject;4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5aaf46b2
-[info] Resolving com.google.inject.extensions#guice-assistedinject;4.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@5aaf46b2
-[debug] 		tried /Users/kellykrawczyk/.ivy2/local/com.google.inject.extensions/guice-assistedinject/4.0/ivys/ivy.xml
-[debug] 	local: no ivy file found for com.google.inject.extensions#guice-assistedinject;4.0
-[debug] 		tried https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
-[debug] 	jcenter: found md file for com.google.inject.extensions#guice-assistedinject;4.0
-[debug] 		=> https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom (4.0)
-[debug] downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom ...
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
-[debug] 	jcenter: downloading https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom.sha1
-[debug] sha1 OK for https://jcenter.bintray.com/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
-[debug] 	[SUCCESSFUL ] com.google.inject.extensions#guice-assistedinject;4.0!guice-assistedinject.pom(pom.original) (437ms)
-[info] Resolving com.google.inject.extensions#extensions-parent;4.0 ...
-[debug] sbt-chain: Checking cache for: dependency: com.google.inject.extensions#extensions-parent;4.0 {}
-[debug] sbt-chain: module revision found in cache: com.google.inject.extensions#extensions-parent;4.0
-[debug] 	found com.google.inject.extensions#guice-assistedinject;4.0 in jcenter
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f145114
+[debug] sbt-chain: module revision found in cache: com.google.inject.extensions#guice-assistedinject;4.0
+[debug] 	found com.google.inject.extensions#guice-assistedinject;4.0 in sbt-chain
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.google.inject.extensions#guice-assistedinject;4.0 [compile->master]
@@ -536,10 +522,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->compile]
@@ -588,6 +570,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
@@ -776,10 +762,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->compile]
@@ -828,6 +810,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->compile]
@@ -1020,10 +1006,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->compile]
@@ -1072,6 +1054,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
@@ -1260,10 +1246,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->compile]
@@ -1312,6 +1294,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->compile]
@@ -1500,10 +1486,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [test->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [test->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [test->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [test->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [test->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [test->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test->compile]
@@ -1552,6 +1534,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [test->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [test->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [test->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [test->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->compile]
@@ -1747,10 +1733,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->compile]
@@ -1799,6 +1781,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
@@ -1989,10 +1975,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile-internal->compile]
@@ -2041,6 +2023,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile-internal->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile-internal->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile-internal->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile-internal->compile]
@@ -2233,10 +2219,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->compile]
@@ -2285,6 +2267,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
@@ -2473,10 +2459,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->compile]
@@ -2525,6 +2507,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->compile]
@@ -2714,10 +2700,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime-internal->compile]
@@ -2766,6 +2748,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime-internal->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime-internal->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime-internal->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime-internal->compile]
@@ -2959,10 +2945,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [compile->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [compile->compile]
@@ -3011,6 +2993,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [compile->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [compile->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [compile->compile]
@@ -3199,10 +3185,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [runtime->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [runtime->compile]
@@ -3251,6 +3233,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [runtime->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [runtime->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [runtime->compile]
@@ -3439,10 +3425,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [test->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [test->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [test->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [test->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [test->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [test->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test->compile]
@@ -3491,6 +3473,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [test->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [test->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [test->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [test->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test->compile]
@@ -3681,10 +3667,6 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [test-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [test-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.ojalgo#ojalgo;37.1.1 [test-internal->master]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [test-internal->default(compile)]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [test-internal->runtime]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [test-internal->compile]
-[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.6 [test-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64 [test-internal->compile]
@@ -3733,6 +3715,10 @@
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test-internal->compile]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->com.h2database#h2;1.4.191 [test-internal->master]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [test-internal->default(compile)]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [test-internal->runtime]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [test-internal->compile]
+[debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.apache.commons#commons-math3;3.0 [test-internal->master]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test-internal->default(compile)]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test-internal->runtime]
 [debug] == resolving dependencies usesaul#usesaul$sources_2.11;1.0->org.scalatest#scalatest_2.11;2.2.4 [test-internal->compile]
@@ -3964,8 +3950,6 @@
 [debug] 	[NOT REQUIRED] de.bwaldvogel#liblinear;1.94!liblinear.jar(src)
 [debug] 	[NOT REQUIRED] org.ojalgo#ojalgo;37.1.1!ojalgo.jar
 [debug] 	[NOT REQUIRED] org.ojalgo#ojalgo;37.1.1!ojalgo.jar(src)
-[debug] 	[NOT REQUIRED] org.apache.commons#commons-math3;3.6!commons-math3.jar(src)
-[debug] 	[NOT REQUIRED] org.apache.commons#commons-math3;3.6!commons-math3.jar
 [debug] 	[NOT REQUIRED] edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64!illinois-core-utilities.jar(src)
 [debug] 	[NOT REQUIRED] edu.illinois.cs.cogcomp#illinois-core-utilities;3.0.64!illinois-core-utilities.jar
 [debug] 	[NOT REQUIRED] commons-logging#commons-logging;1.1.1!commons-logging.jar(src)
@@ -3990,6 +3974,8 @@
 [debug] 	[NOT REQUIRED] com.google.code.gson#gson;2.3.1!gson.jar
 [debug] 	[NOT REQUIRED] com.h2database#h2;1.4.191!h2.jar(src)
 [debug] 	[NOT REQUIRED] com.h2database#h2;1.4.191!h2.jar
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-math3;3.0!commons-math3.jar
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-math3;3.0!commons-math3.jar(src)
 [debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(src)
@@ -4075,18 +4061,18 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 10231ms :: artifacts dl 238ms
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 compile produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-compile.xml
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 runtime produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-runtime.xml
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 test produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-test.xml
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 provided produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-provided.xml
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 optional produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-optional.xml
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 compile-internal produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-compile-internal.xml
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 runtime-internal produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-runtime-internal.xml
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 test-internal produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-test-internal.xml
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 plugin produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-plugin.xml
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 sources produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-sources.xml
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 docs produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-docs.xml
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 pom produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-pom.xml
-[debug] 	report for usesaul#usesaul$sources_2.11;1.0 scala-tool produced in /Users/kellykrawczyk/Documents/Senior/Machine Learning/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-scala-tool.xml
-[debug] 	resolve done (10231ms resolve - 238ms download)
+[debug] :: resolution report :: resolve 1409ms :: artifacts dl 75ms
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 compile produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-compile.xml
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 runtime produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-runtime.xml
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 test produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-test.xml
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 provided produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-provided.xml
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 optional produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-optional.xml
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 compile-internal produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-compile-internal.xml
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 runtime-internal produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-runtime-internal.xml
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 test-internal produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-test-internal.xml
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 plugin produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-plugin.xml
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 sources produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-sources.xml
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 docs produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-docs.xml
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 pom produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-pom.xml
+[debug] 	report for usesaul#usesaul$sources_2.11;1.0 scala-tool produced in /Users/kellykrawczyk/Saul_Class_Projects/target/resolution-cache/reports/usesaul-usesaul$sources_2.11-scala-tool.xml
+[debug] 	resolve done (1409ms resolve - 75ms download)
