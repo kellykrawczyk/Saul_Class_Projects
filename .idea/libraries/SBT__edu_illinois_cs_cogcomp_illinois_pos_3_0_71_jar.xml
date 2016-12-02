@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: edu.illinois.cs.cogcomp:illinois-pos:3.0.71:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/edu.illinois.cs.cogcomp/illinois-pos/jars/illinois-pos-3.0.71.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/edu.illinois.cs.cogcomp/illinois-pos/srcs/illinois-pos-3.0.71-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

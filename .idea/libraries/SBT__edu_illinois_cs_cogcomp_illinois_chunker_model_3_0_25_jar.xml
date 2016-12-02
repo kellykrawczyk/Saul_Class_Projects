@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: edu.illinois.cs.cogcomp:illinois-chunker-model:3.0.25:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/edu.illinois.cs.cogcomp/illinois-chunker-model/jars/illinois-chunker-model-3.0.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,27 @@
+package kellykrawczyk.disney
+
+import edu.illinois.cs.cogcomp.lbjava.learn.SupportVectorMachine
+import edu.illinois.cs.cogcomp.saul.classifier.Learnable
+import weka.classifiers.bayes.NaiveBayes
+import kellykrawczyk.reader.DisneyStock
+import edu.illinois.cs.cogcomp.saul.classifier.ClassifierUtils
+import kellykrawczyk.reader.DisneyReader
+import edu.illinois.cs.cogcomp.saul.util.Logging
+import DisneyDataModel._
+import scala.collection.JavaConversions._
+
+
+object DisneyApp extends App {
+
+  val reader = new DisneyReader()
+
+  val totalData = reader.disneyData
+
+  val trainSplit = math.ceil(totalData.size()*0.7).toInt
+
+  val trainData = totalData.subList(0, trainSplit)
+  val testData = totalData.subList(trainSplit, totalData.size() - 1)
+
+  DisneyDataModel.disney populate(trainData)
+
+}

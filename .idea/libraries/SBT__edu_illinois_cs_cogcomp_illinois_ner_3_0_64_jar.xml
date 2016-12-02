@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: edu.illinois.cs.cogcomp:illinois-ner:3.0.64:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/edu.illinois.cs.cogcomp/illinois-ner/jars/illinois-ner-3.0.64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/edu.illinois.cs.cogcomp/illinois-ner/srcs/illinois-ner-3.0.64-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

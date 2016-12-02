@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.tartarus:snowball:1.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.tartarus/snowball/jars/snowball-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

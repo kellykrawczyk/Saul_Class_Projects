@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: edu.illinois.cs.cogcomp:illinois-srl-models:5.1:verb-stanford:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/edu.illinois.cs.cogcomp/illinois-srl-models/jars/illinois-srl-models-5.1-verb-stanford.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
