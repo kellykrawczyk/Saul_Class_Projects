@@ -27,8 +27,9 @@ public class DisneyStock {
     public float mkt_cap; //current market capital
     public float net_income;
     public float volatility; //stock price volatility
+    public String prediction;
 
-    public DisneyStock(String d, float eps, float b, float td, float so, float c_ncwc, float ce, float ie, float ebit, float oi, float evcf, float ebitda, float r, float oe, float rv, float ncwv, float tl, float mc, float ni, float v) {
+    public DisneyStock(String d, float eps, float b, float td, float so, float c_ncwc, float ce, float ie, float ebit, float oi, float evcf, float ebitda, float r, float oe, float rv, float ncwv, float tl, float mc, float ni, float v, String pred) {
 
         date = d;
         EPS = eps;
@@ -50,6 +51,8 @@ public class DisneyStock {
         mkt_cap = mc;
         net_income = ni;
         volatility = v;
+        prediction = pred;
+
     }
 
     public void initializeDisney() {
@@ -76,6 +79,7 @@ public class DisneyStock {
         data.add(mkt_cap);
         data.add(net_income);
         data.add(volatility);
+        data.add(prediction);
 
         System.out.println(data);
 

@@ -1,14 +1,17 @@
 package kellykrawczyk.disney
 
 import edu.illinois.cs.cogcomp.saul.datamodel.DataModel
-import scala.collection.JavaConversions._
 import kellykrawczyk.reader.DisneyStock
-import DisneyClassifier._
 
 
 object DisneyDataModel extends DataModel {
 
   val disney = node[DisneyStock]
+  val prediction = node[String]
+
+  val disneyToPrediction = edge(disney, prediction)
+
+
 
   val date = property(disney){
     x: DisneyStock =>
@@ -128,6 +131,11 @@ object DisneyDataModel extends DataModel {
       val v = x.volatility.toDouble
       v
   }
+
+  /*val prediction = property(disney){
+    x: DisneyStock => x.prediction
+  }
+*/
 
 
 }
