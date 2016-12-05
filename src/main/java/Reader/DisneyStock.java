@@ -1,4 +1,4 @@
-package kellykrawczyk.reader;
+package Reader;
 
 /**
  * Created by kellykrawczyk on 12/1/16.
@@ -8,7 +8,6 @@ import java.util.ArrayList;
 public class DisneyStock {
 
     public String date;
-    public float EPS;
     public float beta;
     public float total_debt;
     public float shares_outstanding;
@@ -27,12 +26,15 @@ public class DisneyStock {
     public float mkt_cap; //current market capital
     public float net_income;
     public float volatility; //stock price volatility
-    public String prediction;
+    public float EPS;
+    public float BEST_EPS;
+    public String prediction; //compare Bloomberg Estimate of EPS with actual EPS
+                                // (overestimate vs underestimate)
+    public float prediction_value; //numeric value for prediction (1 = overestimate, 0 = underestimate)
 
-    public DisneyStock(String d, float eps, float b, float td, float so, float c_ncwc, float ce, float ie, float ebit, float oi, float evcf, float ebitda, float r, float oe, float rv, float ncwv, float tl, float mc, float ni, float v, String pred) {
+    public DisneyStock(String d, float b, float td, float so, float c_ncwc, float ce, float ie, float ebit, float oi, float evcf, float ebitda, float r, float oe, float rv, float ncwv, float tl, float mc, float ni, float v, float eps, float best_eps) {
 
         date = d;
-        EPS = eps;
         beta = b;
         total_debt = td;
         shares_outstanding = so;
@@ -51,8 +53,17 @@ public class DisneyStock {
         mkt_cap = mc;
         net_income = ni;
         volatility = v;
-        prediction = pred;
+        EPS = eps;
+        BEST_EPS = best_eps;
 
+        if (EPS > BEST_EPS) {
+            prediction = "Underestimate";
+            prediction_value = 0;
+        }
+        else {
+            prediction = "Overestimate";
+            prediction_value = 1;
+        }
     }
 
     public void initializeDisney() {
@@ -60,7 +71,6 @@ public class DisneyStock {
         ArrayList data = new ArrayList();
 
         data.add(date);
-        data.add(EPS);
         data.add(beta);
         data.add(total_debt);
         data.add(shares_outstanding);
@@ -79,7 +89,10 @@ public class DisneyStock {
         data.add(mkt_cap);
         data.add(net_income);
         data.add(volatility);
+        data.add(EPS);
+        data.add(BEST_EPS);
         data.add(prediction);
+        data.add(prediction_value);
 
         System.out.println(data);
 

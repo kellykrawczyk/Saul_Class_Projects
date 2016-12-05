@@ -1,12 +1,12 @@
-package kellykrawczyk.disney
+package kellykrawczyk
 
+import Reader.DisneyReader
 import edu.illinois.cs.cogcomp.lbjava.learn.SupportVectorMachine
 import edu.illinois.cs.cogcomp.ner.ClassifiersAndUtils.DocumentReader
 import edu.illinois.cs.cogcomp.saul.classifier.Learnable
 import weka.classifiers.bayes.NaiveBayes
-import kellykrawczyk.reader.DisneyStock
+import Reader.reader.DisneyStock
 import edu.illinois.cs.cogcomp.saul.classifier.ClassifierUtils
-import kellykrawczyk.reader.DisneyReader
 import edu.illinois.cs.cogcomp.saul.util.Logging
 import kellykrawczyk.disney.DisneyDataModel._
 

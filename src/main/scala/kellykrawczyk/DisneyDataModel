@@ -1,28 +1,18 @@
-package kellykrawczyk.disney
+package kellykrawczyk
 
 import edu.illinois.cs.cogcomp.saul.datamodel.DataModel
-import kellykrawczyk.reader.DisneyStock
+//import edu.illinois.cs.cogcomp.saulexamples.data.Document
 
+import Reader.DisneyStock
 
 object DisneyDataModel extends DataModel {
 
   val disney = node[DisneyStock]
-  val prediction = node[String]
-
-  val disneyToPrediction = edge(disney, prediction)
-
-
 
   val date = property(disney){
     x: DisneyStock =>
       val d = x.date
       d
-  }
-
-  val EPS = property(disney){
-    x: DisneyStock =>
-      val eps = x.EPS.toDouble
-      eps
   }
 
   val beta = property(disney){
@@ -132,10 +122,26 @@ object DisneyDataModel extends DataModel {
       v
   }
 
-  /*val prediction = property(disney){
+  val EPS = property(disney){
+    x: DisneyStock =>
+      val eps = x.EPS.toDouble
+      eps
+  }
+
+  val BEST_EPS = property(disney){
+    x: DisneyStock =>
+      val best_eps = x.BEST_EPS.toDouble
+      best_eps
+  }
+
+  val prediction = property(disney){
     x: DisneyStock => x.prediction
   }
-*/
+
+  val prediction_value = property(disney){
+    x: DisneyStock => x.prediction_value.toDouble
+  }
+
 
 
 }
