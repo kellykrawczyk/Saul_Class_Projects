@@ -1,10 +1,12 @@
-package scala.kellykrawczyk
+package scala
 
-import edu.illinois.cs.cogcomp.saul.datamodel.DataModel
-//import edu.illinois.cs.cogcomp.saulexamples.data.Document
+
 import Reader.DisneyStock
+import edu.illinois.cs.cogcomp.saul.datamodel.DataModel
 
-object DisneyDataModel extends DataModel {
+import DisneyClassifier._
+
+object DisneyDataModel extends DataModel{
 
   val disney = node[DisneyStock]
 
@@ -141,6 +143,8 @@ object DisneyDataModel extends DataModel {
     x: DisneyStock => x.prediction_value.toDouble
   }
 
-
+  val estimate = property(disney){
+    x: DisneyStock => secondClassifier.classifier.discreteValue(x)
+  }
 
 }

@@ -15,7 +15,7 @@ public class DisneyReader {
         disneyData = new ArrayList<DisneyStock>();
         disneyAll = new ArrayList<ArrayList<String>>();
 
-        BufferedReader reader = new BufferedReader(new FileReader("/Users/scala.kellykrawczyk/Saul_Class_Projects/data/newdata.csv"));
+        BufferedReader reader = new BufferedReader(new FileReader("/Users/kellykrawczyk/Saul_Class_Projects/data/newdata.csv"));
 
         String line = "";
 
