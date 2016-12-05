@@ -1,13 +1,9 @@
 package Reader;
 
+import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.io.BufferedReader;
-
-/**
- * Created by kellykrawczyk on 12/1/16.
- */
 
 public class DisneyReader {
 
@@ -19,7 +15,7 @@ public class DisneyReader {
         disneyData = new ArrayList<DisneyStock>();
         disneyAll = new ArrayList<ArrayList<String>>();
 
-        BufferedReader reader = new BufferedReader(new FileReader("/Users/kellykrawczyk/Saul_Class_Projects/data/newdata.csv"));
+        BufferedReader reader = new BufferedReader(new FileReader("/Users/scala.kellykrawczyk/Saul_Class_Projects/data/newdata.csv"));
 
         String line = "";
 

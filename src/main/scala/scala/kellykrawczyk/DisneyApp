@@ -1,0 +1,67 @@
+package scala.kellykrawczyk
+
+import edu.illinois.cs.cogcomp.lbjava.learn.SupportVectorMachine
+import edu.illinois.cs.cogcomp.saul.classifier.Learnable
+import weka.classifiers.bayes.NaiveBayes
+import Reader.DisneyStock
+import edu.illinois.cs.cogcomp.saul.classifier.ClassifierUtils
+import Reader.DisneyReader
+import edu.illinois._
+import edu.illinois.cs.cogcomp.saul.util.Logging
+
+import scala.collection.JavaConversions._
+import scala.collection.JavaConverters._
+
+object DisneyApp extends App {
+
+  val reader = new DisneyReader
+
+  val Data = reader.disneyData
+  val trainSplit = math.ceil(Data.size()*0.7).toInt
+  val trainData = Data.subList(0, trainSplit)
+  val testData = Data.subList(trainSplit, Data.size() - 1)
+
+
+
+
+  DisneyDataModel.disney populate(trainData)
+  print(EPS(trainData.get(3)))
+
+
+  DisneyClassifier.FirstClassifier.learn(30)
+  DisneyClassifier.FirstClassifier.test(testData)
+  println(DisneyClassifier.FirstClassifier.classifier.discreteValue(testData.get(100)))
+
+  DisneyClassifier.SecondClassifier.learn(30)
+  DisneyClassifier.SecondClassifier.test(testData)
+  println(DisneyClassifier.SecondClassifier.classifier.discreteValue(testData.get(100)))
+
+  DisneyClassifier.SparseNetworkClassifier.learn(30)
+  DisneyClassifier.SparseNetworkClassifier.test(testData)
+  println(DisneyClassifier.SparseNetworkClassifier.classifier.discreteValue(testData.get(100)))
+
+  DisneyClassifier.WekaClassifier.learn(30)
+  DisneyClassifier.WekaClassifier.test(testData)
+  println(DisneyClassifier.WekaClassifier.classifier.discreteValue(testData.get(100)))
+
+  DisneyClassifier.BayesNetworkClassifier.learn(30)
+  DisneyClassifier.BayesNetworkClassifier.test(testData)
+  println(DisneyClassifier.BayesNetworkClassifier.classifier.discreteValue(testData.get(100)))
+
+  val overestimate = testData.filter(x => prediction_value(x) == 1.0)
+  val underestimate = overestimate.filter(x => prediction_value(x) != 1.0)
+
+  var i = 0;
+
+  for (i <- 0 to (underestimate.size - 1)){
+    println(underestimate.get(i).name)
+  }
+
+  println()
+
+  val predicted_overestimate = testData.filter(x => prediction_value(x) == 1.0)
+  val predicted_underestimate = predicted_overestimate.filter(x => prediction_value(x) != 1.0)
+
+
+
+}

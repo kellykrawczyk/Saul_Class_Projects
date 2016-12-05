@@ -1,10 +1,7 @@
 package Reader;
 
-/**
- * Created by kellykrawczyk on 12/1/16.
- */
-
 import java.util.ArrayList;
+
 public class DisneyStock {
 
     public String date;

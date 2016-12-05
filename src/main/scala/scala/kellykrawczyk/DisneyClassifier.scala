@@ -1,18 +1,16 @@
-package kellykrawczyk
+package scala.kellykrawczyk
 
 /**
-  * Created by kellykrawczyk on 12/5/16.
+  * Created by scala.kellykrawczyk on 12/5/16.
   */
-import edu.illinois.cs.cogcomp.lbjava.learn.SupportVectorMachine
-import edu.illinois.cs.cogcomp.lbjava.learn.SparseNetworkLearner
+import edu.illinois.cs.cogcomp.lbjava.learn.{SparseNetworkLearner, SupportVectorMachine}
 import edu.illinois.cs.cogcomp.saul.classifier.Learnable
-import edu.illinois.cs.cogcomp.lbjava.learn.StochasticGradientDescent
 import weka.classifiers.bayes.NaiveBayes
-import weka.classifiers.bayes.BayesNet
-import weka.classifiers.trees.RandomForest
-import weka.classifiers.functions.MultilayerPerceptron
+
+
 import edu.illinois.cs.cogcomp.saul.learn.SaulWekaWrapper
-import edu.illinois.cs.cogcomp.saul
+import Reader.DisneyStock
+
 
 object DisneyClassifier {
 
@@ -27,7 +25,7 @@ object DisneyClassifier {
 
   object secondClassifier extends Learnable[DisneyStock](disney) {
     def label = prediction
-    override def feature = using(total_debt, shares_outstanding, change_in_NCWC, cap_exp, int_expense, EBIT, op_inc)
+    override def feature = using(total_debt, shares_outstanding, change_in_NCWC, cap_exp, int_expense, EBIT, op_inc).asJava
     override lazy val classifier = new SupportVectorMachine()
 
   }

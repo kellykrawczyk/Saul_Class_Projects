@@ -1,8 +1,7 @@
-package kellykrawczyk
+package scala.kellykrawczyk
 
 import edu.illinois.cs.cogcomp.saul.datamodel.DataModel
 //import edu.illinois.cs.cogcomp.saulexamples.data.Document
-
 import Reader.DisneyStock
 
 object DisneyDataModel extends DataModel {
