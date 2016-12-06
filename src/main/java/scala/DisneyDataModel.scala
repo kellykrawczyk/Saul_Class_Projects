@@ -8,13 +8,6 @@ object DisneyDataModel extends DataModel{
 
   val disney = node[String]
 
-  val dateFeature = property(disney){
-    x: String => {
-      val tokens = x.split(",")
-      tokens(0).toDouble
-    }
-  }
-
   val betaFeature = property(disney){
     x: String =>
       val tokens = x.split(",")
