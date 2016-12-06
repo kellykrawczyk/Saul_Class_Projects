@@ -140,3 +140,271 @@ INFO  [2016-12-06 07:12:35,853] s.DisneyClassifier$BayesNetworkClassifier$: Trai
 INFO  [2016-12-06 07:12:35,853] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
 INFO  [2016-12-06 07:12:35,876] s.DisneyClassifier$BayesNetworkClassifier$: Training: 20 iterations remain.
 INFO  [2016-12-06 07:12:35,915] s.DisneyClassifier$BayesNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:15:47,180] s.DisneyClassifier$firstClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:15:47,183] s.DisneyClassifier$firstClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:47,186] s.DisneyClassifier$firstClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:47,305] s.DisneyClassifier$firstClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:15:47,339] s.DisneyClassifier$firstClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:15:47,492] s.DisneyClassifier$secondClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:15:47,493] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:47,493] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:47,559] s.DisneyClassifier$secondClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:15:47,621] s.DisneyClassifier$secondClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:15:47,707] s.DisneyClassifier$SparseNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:15:47,708] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:47,708] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:47,734] s.DisneyClassifier$SparseNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:15:47,752] s.DisneyClassifier$SparseNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:15:47,779] s.DisneyClassifier$RandomForestClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:15:47,780] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:47,780] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:47,814] s.DisneyClassifier$RandomForestClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:15:47,841] s.DisneyClassifier$RandomForestClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:15:48,213] s.DisneyClassifier$RandomForestClassifier2$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:15:48,214] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:15:48,214] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:15:48,253] s.DisneyClassifier$RandomForestClassifier2$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:15:48,347] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:15:48,347] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:48,348] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:48,367] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:15:48,388] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:15:54,685] s.DisneyClassifier$WekaClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:15:54,685] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:54,685] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:54,706] s.DisneyClassifier$WekaClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:15:54,733] s.DisneyClassifier$WekaClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:15:54,828] s.DisneyClassifier$BayesNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:15:54,828] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:54,828] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:15:54,852] s.DisneyClassifier$BayesNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:15:54,897] s.DisneyClassifier$BayesNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:16:18,748] s.DisneyClassifier$firstClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:16:18,752] s.DisneyClassifier$firstClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:18,756] s.DisneyClassifier$firstClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:18,892] s.DisneyClassifier$firstClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:16:18,922] s.DisneyClassifier$firstClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:16:19,076] s.DisneyClassifier$secondClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:16:19,076] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:19,077] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:19,125] s.DisneyClassifier$secondClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:16:19,150] s.DisneyClassifier$secondClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:16:19,185] s.DisneyClassifier$SparseNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:16:19,186] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:19,186] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:19,229] s.DisneyClassifier$SparseNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:16:19,252] s.DisneyClassifier$SparseNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:16:19,287] s.DisneyClassifier$RandomForestClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:16:19,287] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:19,287] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:19,373] s.DisneyClassifier$RandomForestClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:16:19,415] s.DisneyClassifier$RandomForestClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:16:19,800] s.DisneyClassifier$RandomForestClassifier2$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:16:19,801] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:16:19,801] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:16:19,835] s.DisneyClassifier$RandomForestClassifier2$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:16:19,968] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:16:19,968] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:19,968] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:20,007] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:16:20,052] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:16:26,223] s.DisneyClassifier$WekaClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:16:26,224] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:26,224] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:26,247] s.DisneyClassifier$WekaClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:16:26,273] s.DisneyClassifier$WekaClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:16:26,362] s.DisneyClassifier$BayesNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:16:26,362] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:26,362] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:16:26,389] s.DisneyClassifier$BayesNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:16:26,412] s.DisneyClassifier$BayesNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:17:03,683] s.DisneyClassifier$firstClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:17:03,686] s.DisneyClassifier$firstClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:03,689] s.DisneyClassifier$firstClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:03,796] s.DisneyClassifier$firstClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:17:03,834] s.DisneyClassifier$firstClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:17:03,986] s.DisneyClassifier$secondClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:17:03,986] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:03,986] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:04,044] s.DisneyClassifier$secondClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:17:04,120] s.DisneyClassifier$secondClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:17:04,200] s.DisneyClassifier$SparseNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:17:04,200] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:04,200] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:04,227] s.DisneyClassifier$SparseNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:17:04,244] s.DisneyClassifier$SparseNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:17:04,271] s.DisneyClassifier$RandomForestClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:17:04,272] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:04,272] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:04,305] s.DisneyClassifier$RandomForestClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:17:04,333] s.DisneyClassifier$RandomForestClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:17:04,685] s.DisneyClassifier$RandomForestClassifier2$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:17:04,686] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:17:04,686] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:17:04,725] s.DisneyClassifier$RandomForestClassifier2$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:17:04,819] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:17:04,819] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:04,819] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:04,840] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:17:04,862] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:17:11,007] s.DisneyClassifier$WekaClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:17:11,008] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:11,008] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:11,030] s.DisneyClassifier$WekaClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:17:11,056] s.DisneyClassifier$WekaClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:17:11,150] s.DisneyClassifier$BayesNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:17:11,150] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:11,150] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:17:11,173] s.DisneyClassifier$BayesNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:17:11,215] s.DisneyClassifier$BayesNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:27:04,396] s.DisneyClassifier$secondClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:27:04,399] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:27:04,402] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:27:04,541] s.DisneyClassifier$secondClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:27:04,604] s.DisneyClassifier$secondClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:27:04,789] s.DisneyClassifier$SparseNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:27:04,790] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:27:04,790] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:27:04,843] s.DisneyClassifier$SparseNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:27:04,880] s.DisneyClassifier$SparseNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:27:04,918] s.DisneyClassifier$RandomForestClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:27:04,918] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:27:04,918] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:27:04,965] s.DisneyClassifier$RandomForestClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:27:04,994] s.DisneyClassifier$RandomForestClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:27:05,324] s.DisneyClassifier$RandomForestClassifier2$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:27:05,324] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:27:05,324] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:27:05,373] s.DisneyClassifier$RandomForestClassifier2$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:27:05,508] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:27:05,508] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:27:05,509] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:27:05,529] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:27:05,550] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:27:11,621] s.DisneyClassifier$WekaClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:27:11,621] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:27:11,621] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:27:11,642] s.DisneyClassifier$WekaClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:27:11,667] s.DisneyClassifier$WekaClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:27:11,746] s.DisneyClassifier$BayesNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:27:11,746] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:27:11,746] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:27:11,768] s.DisneyClassifier$BayesNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:27:11,791] s.DisneyClassifier$BayesNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:28:07,868] s.DisneyClassifier$firstClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:28:07,870] s.DisneyClassifier$firstClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:07,873] s.DisneyClassifier$firstClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:07,986] s.DisneyClassifier$firstClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:28:08,018] s.DisneyClassifier$firstClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:28:08,195] s.DisneyClassifier$secondClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:28:08,195] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:08,196] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:08,262] s.DisneyClassifier$secondClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:28:08,336] s.DisneyClassifier$secondClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:28:08,419] s.DisneyClassifier$SparseNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:28:08,420] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:08,420] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:08,449] s.DisneyClassifier$SparseNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:28:08,469] s.DisneyClassifier$SparseNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:28:08,498] s.DisneyClassifier$RandomForestClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:28:08,498] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:08,498] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:08,531] s.DisneyClassifier$RandomForestClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:28:08,560] s.DisneyClassifier$RandomForestClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:28:08,956] s.DisneyClassifier$RandomForestClassifier2$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:28:08,957] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:28:08,957] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:28:08,997] s.DisneyClassifier$RandomForestClassifier2$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:28:09,097] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:28:09,097] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:09,097] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:09,119] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:28:09,148] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:28:15,306] s.DisneyClassifier$WekaClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:28:15,306] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:15,306] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:15,329] s.DisneyClassifier$WekaClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:28:15,355] s.DisneyClassifier$WekaClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:28:15,443] s.DisneyClassifier$BayesNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:28:15,444] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:15,444] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:28:15,465] s.DisneyClassifier$BayesNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:28:15,518] s.DisneyClassifier$BayesNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:18,748] s.DisneyClassifier$firstClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:18,750] s.DisneyClassifier$firstClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:18,753] s.DisneyClassifier$firstClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:18,860] s.DisneyClassifier$firstClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:18,892] s.DisneyClassifier$firstClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:19,067] s.DisneyClassifier$secondClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:19,067] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:19,068] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:19,136] s.DisneyClassifier$secondClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:19,183] s.DisneyClassifier$secondClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:19,265] s.DisneyClassifier$SparseNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:19,265] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:19,265] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:19,297] s.DisneyClassifier$SparseNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:19,334] s.DisneyClassifier$SparseNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:19,374] s.DisneyClassifier$RandomForestClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:19,374] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:19,374] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:19,409] s.DisneyClassifier$RandomForestClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:19,436] s.DisneyClassifier$RandomForestClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:19,781] s.DisneyClassifier$RandomForestClassifier2$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:19,782] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:19,782] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:19,808] s.DisneyClassifier$RandomForestClassifier2$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:19,966] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:19,967] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:19,967] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:20,011] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:20,035] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:26,142] s.DisneyClassifier$WekaClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:26,142] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:26,143] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:26,168] s.DisneyClassifier$WekaClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:26,190] s.DisneyClassifier$WekaClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:26,277] s.DisneyClassifier$BayesNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:26,277] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:26,277] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:26,299] s.DisneyClassifier$BayesNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:26,323] s.DisneyClassifier$BayesNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:45,015] s.DisneyClassifier$firstClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:45,018] s.DisneyClassifier$firstClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:45,022] s.DisneyClassifier$firstClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:45,131] s.DisneyClassifier$firstClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:45,164] s.DisneyClassifier$firstClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:45,380] s.DisneyClassifier$secondClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:45,381] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:45,381] s.DisneyClassifier$secondClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:45,452] s.DisneyClassifier$secondClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:45,505] s.DisneyClassifier$secondClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:45,581] s.DisneyClassifier$SparseNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:45,581] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:45,581] s.DisneyClassifier$SparseNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:45,611] s.DisneyClassifier$SparseNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:45,646] s.DisneyClassifier$SparseNetworkClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:45,688] s.DisneyClassifier$RandomForestClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:45,688] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:45,688] s.DisneyClassifier$RandomForestClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:45,726] s.DisneyClassifier$RandomForestClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:45,759] s.DisneyClassifier$RandomForestClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:46,087] s.DisneyClassifier$RandomForestClassifier2$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:46,087] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:46,088] s.DisneyClassifier$RandomForestClassifier2$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:46,116] s.DisneyClassifier$RandomForestClassifier2$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:46,255] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:46,255] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:46,255] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:46,291] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:46,313] s.DisneyClassifier$MultiLayerPerceptronClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:52,151] s.DisneyClassifier$WekaClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:52,151] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:52,151] s.DisneyClassifier$WekaClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:52,172] s.DisneyClassifier$WekaClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:52,193] s.DisneyClassifier$WekaClassifier$: Training: 10 iterations remain.
+INFO  [2016-12-06 07:29:52,274] s.DisneyClassifier$BayesNetworkClassifier$: Learnable: Learn with data of size 371
+INFO  [2016-12-06 07:29:52,275] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:52,275] s.DisneyClassifier$BayesNetworkClassifier$: Training: 30 iterations remain.
+INFO  [2016-12-06 07:29:52,298] s.DisneyClassifier$BayesNetworkClassifier$: Training: 20 iterations remain.
+INFO  [2016-12-06 07:29:52,322] s.DisneyClassifier$BayesNetworkClassifier$: Training: 10 iterations remain.

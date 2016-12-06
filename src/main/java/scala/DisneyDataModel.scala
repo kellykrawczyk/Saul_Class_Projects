@@ -1,11 +1,8 @@
 package scala
 
 
-import Reader.DisneyStock
 import edu.illinois.cs.cogcomp.saul.datamodel.DataModel
-import edu.illinois.cs.cogcomp._
 
-import DisneyClassifier._
 
 object DisneyDataModel extends DataModel{
 
@@ -125,18 +122,6 @@ object DisneyDataModel extends DataModel{
       val tokens = x.split(",")
       tokens(18).toDouble
   }
-
-  /*val EPS = property(disney){
-    x: DisneyStock =>
-      val eps = x.EPS.toDouble
-      eps
-  }
-
-  val BEST_EPS = property(disney){
-    x: DisneyStock =>
-      val best_eps = x.BEST_EPS.toDouble
-      best_eps
-  }*/
 
   val estimateLabel = property(disney) {
     x: String =>
