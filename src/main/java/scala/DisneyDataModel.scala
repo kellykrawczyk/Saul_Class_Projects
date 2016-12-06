@@ -135,16 +135,20 @@ object DisneyDataModel extends DataModel{
       best_eps
   }
 
-  val prediction = property(disney){
-    x: DisneyStock => x.prediction
-  }
-
-  val prediction_value = property(disney){
-    x: DisneyStock => x.prediction_value.toDouble
-  }
-
   val estimate = property(disney){
-    x: DisneyStock => secondClassifier.classifier.discreteValue(x)
+    x: DisneyStock =>
+      val estimate = x.estimate
+      estimate
+  }
+
+  val estimate_value = property(disney){
+    x: DisneyStock =>
+      val estimate_value = x.estimate_value.toDouble
+      estimate_value
+  }
+
+  val prediction = property(disney){
+    x: DisneyStock => firstClassifier.classifier.discreteValue(x)
   }
 
 }

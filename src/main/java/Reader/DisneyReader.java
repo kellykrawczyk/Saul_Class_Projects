@@ -54,7 +54,6 @@ public class DisneyReader {
                 float v = Float.parseFloat(row[18]);
                 float eps = Float.parseFloat(row[19]);
                 float best_eps = Float.parseFloat(row[20]);
-                //String pred = (row[21]);
 
                 DisneyStock disney = new DisneyStock(d, b, td, so, c_ncwc, ce, ie, ebit, oi, evcf, ebitda, r, oe, rv, ncwv, tl, mc, ni, v, eps, best_eps);
                 disney.initializeDisney();
@@ -68,7 +67,9 @@ public class DisneyReader {
     public static void main(String[] args) throws IOException {
 
         DisneyReader dis = new DisneyReader();
-        dis.disneyData.get(1).initializeDisney();
+        dis.disneyData.get(3).initializeDisney();
+int i = 1;
+
     }
 
 
