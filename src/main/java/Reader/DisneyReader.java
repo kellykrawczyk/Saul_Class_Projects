@@ -1,21 +1,34 @@
 package Reader;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
+import java.util.List;
 
 public class DisneyReader {
 
-    public ArrayList<ArrayList<String>> disneyAll;
-    public ArrayList<DisneyStock> disneyData;
+    //public ArrayList<ArrayList<Float>> disneyAll;
+    //public ArrayList<DisneyStock> disneyData;
+    public List<String> disneyData;
 
-    public DisneyReader() throws IOException {
 
-        disneyData = new ArrayList<DisneyStock>();
-        disneyAll = new ArrayList<ArrayList<String>>();
+    public DisneyReader(String dataFile) {
 
-        BufferedReader reader = new BufferedReader(new FileReader("/Users/kellykrawczyk/Saul_Class_Projects/data/newdata.csv"));
+        disneyData = new ArrayList<String>();
+        //disneyAll = new ArrayList<ArrayList<Float>>();
+
+        try {
+
+            BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(dataFile)));
+
+            String str;
+            while ((str = br.readLine()) != null) {
+                disneyData.add(str);
+            }
+            br.close();
+        } catch (Exception e) {
+        }
+
+        /*BufferedReader reader = new BufferedReader(new FileReader("/Users/kellykrawczyk/Saul_Class_Projects/data/newdata.csv"));
 
         String line = "";
 
@@ -29,7 +42,7 @@ public class DisneyReader {
 
                 String splitData = ",";
 
-                ArrayList innerData = new ArrayList<DisneyStock>();
+                ArrayList innerData = new ArrayList<Float>();
 
                 String[] row = line.split(splitData);
 
@@ -68,9 +81,8 @@ public class DisneyReader {
 
         DisneyReader dis = new DisneyReader();
         dis.disneyData.get(3).initializeDisney();
-int i = 1;
 
+    }*/
     }
-
 
 }

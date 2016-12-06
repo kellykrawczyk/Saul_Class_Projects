@@ -3,127 +3,130 @@ package scala
 
 import Reader.DisneyStock
 import edu.illinois.cs.cogcomp.saul.datamodel.DataModel
+import edu.illinois.cs.cogcomp._
 
 import DisneyClassifier._
 
 object DisneyDataModel extends DataModel{
 
-  val disney = node[DisneyStock]
+  val disney = node[String]
 
-  val date = property(disney){
-    x: DisneyStock =>
-      val d = x.date
-      d
+  val dateFeature = property(disney){
+    x: String => {
+      val tokens = x.split(",")
+      tokens(0).toDouble
+    }
   }
 
-  val beta = property(disney){
-    x: DisneyStock =>
-      val b = x.beta.toDouble
-      b
+  val betaFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(1).toDouble
   }
 
-  val total_debt = property(disney){
-    x: DisneyStock =>
-      val td = x.total_debt.toDouble
-      td
-  }
-  val shares_outstanding = property(disney){
-    x: DisneyStock =>
-      val so = x.shares_outstanding.toDouble
-      so
+  val total_debtFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(2).toDouble
   }
 
-  val change_in_NCWC = property(disney){
-    x: DisneyStock =>
-      val c_ncwc = x.change_in_NCWC.toDouble
-      c_ncwc
+  val shares_outstandingFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(3).toDouble
   }
 
-  val cap_exp = property(disney){
-    x: DisneyStock =>
-      val ce = x.cap_exp.toDouble
-      ce
+  val change_in_NCWCFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(4).toDouble
   }
 
-  val int_expense = property(disney){
-    x: DisneyStock =>
-      val ie = x.int_expense.toDouble
-      ie
+  val cap_expFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(5).toDouble
   }
 
-  val EBIT = property(disney){
-    x: DisneyStock =>
-      val ebit = x.EBIT.toDouble
-      ebit
+  val int_expenseFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(6).toDouble
   }
 
-  val op_inc = property(disney){
-    x: DisneyStock =>
-      val oi = x.op_inc.toDouble
-      oi
+  val EBITFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(7).toDouble
   }
 
-  val ev_year_cash_flow = property(disney){
-    x: DisneyStock =>
-      val evcf = x.ev_year_cash_flow.toDouble
-      evcf
+  val op_incFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(8).toDouble
   }
 
-  val EBITDA = property(disney){
-    x: DisneyStock =>
-      val ebitda = x.EBITDA.toDouble
-      ebitda
+  val ev_year_cash_flowFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(9).toDouble
   }
 
-  val r_squared = property(disney){
-    x: DisneyStock =>
-      val r = x.r_squared.toDouble
-      r
+  val EBITDAFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(10).toDouble
   }
 
-  val op_expense = property(disney){
-    x: DisneyStock =>
-      val oe = x.op_expense.toDouble
-      oe
+  val r_squaredFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(11).toDouble
   }
 
-  val rev_val = property(disney){
-    x: DisneyStock =>
-      val rv = x.rev_val.toDouble
-      rv
+  val op_expenseFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(12).toDouble
   }
 
-  val NCWC = property(disney){
-    x: DisneyStock =>
-      val ncwv = x.NCWV.toDouble
-      ncwv
+  val rev_valFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(13).toDouble
   }
 
-  val tot_liab = property(disney){
-    x: DisneyStock =>
-      val tl = x.tot_liab.toDouble
-      tl
+  val NCWCFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(14).toDouble
   }
 
-  val mkt_cap = property(disney){
-    x: DisneyStock =>
-      val mc = x.mkt_cap.toDouble
-      mc
+  val tot_liabFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(15).toDouble
   }
 
-  val net_income = property(disney){
-    x: DisneyStock =>
-      val ni = x.net_income.toDouble
-      ni
+  val mkt_capFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(16).toDouble
   }
 
-  val volatility = property(disney){
-    x: DisneyStock =>
-      val v = x.volatility.toDouble
-      v
+  val net_incomeFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(17).toDouble
   }
 
-  val EPS = property(disney){
+  val volatilityFeature = property(disney){
+    x: String =>
+      val tokens = x.split(",")
+      tokens(18).toDouble
+  }
+
+  /*val EPS = property(disney){
     x: DisneyStock =>
       val eps = x.EPS.toDouble
       eps
@@ -133,22 +136,45 @@ object DisneyDataModel extends DataModel{
     x: DisneyStock =>
       val best_eps = x.BEST_EPS.toDouble
       best_eps
+  }*/
+
+  val estimateLabel = property(disney) {
+    x: String =>
+      val tokens = x.split(",")
+      if (tokens(19).equals(tokens(20)))
+        "Correct"
+      else
+        "Incorrect"
   }
 
-  val estimate = property(disney){
-    x: DisneyStock =>
-      val estimate = x.estimate
-      estimate
+  val trustLabel = property(disney) {
+    x: String =>
+      val tokens = x.split(",")
+      if (tokens(19).equals(tokens(20)))
+        "Trust"
+      else if (Math.abs(tokens(19).toDouble - tokens(20).toDouble) <= 0.5)
+        "Trust"
+      else
+        "Don't trust"
   }
 
-  val estimate_value = property(disney){
-    x: DisneyStock =>
-      val estimate_value = x.estimate_value.toDouble
-      estimate_value
+
+
+
+
+
   }
+
+  /*val TrustLabel = property(disney){
+    x: Int =>
+      if (x.estimate.equals(true))
+
+
+  }
+
 
   val prediction = property(disney){
     x: DisneyStock => firstClassifier.classifier.discreteValue(x)
   }
 
-}
+}*/

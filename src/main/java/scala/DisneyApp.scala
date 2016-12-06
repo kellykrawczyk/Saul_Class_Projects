@@ -2,43 +2,58 @@ package scala
 
 import Reader._
 
-import scala.DisneyDataModel._
+//import scala.DisneyDataModel._
+
+import scala.DisneyClassifier._
+import Reader.DisneyReader
 import scala.collection.JavaConversions._
 
+//import edu.illinois.cs.cogcomp.saul.util.Logging
 
-object DisneyApp extends App{
+object DisneyApp extends App {
 
-  val reader = new DisneyReader
+  //val reader = new DisneyReader
 
-  val Data = reader.disneyData
-  val trainSplit = math.ceil(Data.size()*0.7).toInt
-  val trainData = Data.subList(0, trainSplit)
-  val testData = Data.subList(trainSplit, Data.size() - 1)
+ // val Data = reader.disneyData
+ // val trainSplit = math.ceil(Data.size()*0.7).toInt
+  //val trainData = Data.subList(0, trainSplit)
+  //val testData = Data.subList(trainSplit, Data.size() - 1)
+
+  val trainData = new DisneyReader("data/stocks/stocks.train").disneyData
+  val testData = new DisneyReader("data/stocks/stocks.test").disneyData
 
 
+  DisneyDataModel.disney.populate(trainData)
+  DisneyDataModel.disney populate(testData, false)
 
 
-  DisneyDataModel.disney populate(trainData)
+  //DisneyDataModel.disney.populate(trainData)
+  //DisneyDataModel.disney populate(testData)
   //print(BEST_EPS(trainData.get(3)))
   //ClassifierUtils.TestClassifiers(DisneyClassifier.firstClassifier)
 
-  //DisneyClassifier.firstClassifier.learn(3)
-  //DisneyClassifier.firstClassifier.test(testData)
+  firstClassifier.learn(30)
+  firstClassifier.test()
+
+  secondClassifier.learn(30)
+  secondClassifier.test()
+
   //println(DisneyClassifier.firstClassifier.classifier.discreteValue(testData.get(100)))
 
-  DisneyClassifier.SparseNetworkClassifier.learn(3)
-  DisneyClassifier.SparseNetworkClassifier.test(testData)
+  DisneyClassifier.SparseNetworkClassifier.learn(30)
+  DisneyClassifier.SparseNetworkClassifier.test()
+
   //println(DisneyClassifier.SparseNetworkClassifier.classifier.discreteValue(testData.get(100)))
 
-  DisneyClassifier.RandomForestClassifier.learn(10)
-  DisneyClassifier.RandomForestClassifier.test(testData)
+  DisneyClassifier.RandomForestClassifier.learn(30)
+  DisneyClassifier.RandomForestClassifier.test()
  // println(DisneyClassifier.RandomForestClassifier.classifier.discreteValue(testData.get(100)))
 
-  DisneyClassifier.RandomForestClassifier2.learn(2)
-  DisneyClassifier.RandomForestClassifier2.test(testData)
+  DisneyClassifier.RandomForestClassifier2.learn(20)
+  DisneyClassifier.RandomForestClassifier2.test()
 
   DisneyClassifier.MultiLayerPerceptronClassifier.learn(30)
-  DisneyClassifier.MultiLayerPerceptronClassifier.test(testData)
+  DisneyClassifier.MultiLayerPerceptronClassifier.test()
   //println(DisneyClassifier.MultiLayerPerceptronClassifier.classifier.discreteValue(testData.get(100)))
 
   DisneyClassifier.WekaClassifier.learn(30)
@@ -47,25 +62,25 @@ object DisneyApp extends App{
 
   DisneyClassifier.BayesNetworkClassifier.learn(30)
   DisneyClassifier.BayesNetworkClassifier.test(testData)
-  //println(DisneyClassifier.BayesNetworkClassifier.classifier.discreteValue(testData.get(100)))
+  //println(DisneyClassifier.BayesNetworkClassifier.classifier.discreteValue(testData.get(100)))*/
 
-  val overestimate = testData.filter(x => estimate(x) == "Overestimate")
-  val not_overestimate = overestimate.filter(x => prediction(x) != "Overestimate")
+  /*val trust = testData.filter(x => estimate(x) == true)
+  val dont_trust = trust.filter(x => trust(x) != 1)
 
   var i = 0
 
-  for (i <- 0 to (not_overestimate.size - 1)){
-    println(not_overestimate.get(i).date + ":" + prediction(not_overestimate.get(i)))
+  for (i <- 0 until (trust.size - 1)){
+    println(trust.get(i).date + ":" + prediction(trust.get(i)))
   }
 
   println()
 
-  val predicted_overestimate = testData.filter(x => prediction(x) == "Overestimate")
-  val incorrect_overestimate = predicted_overestimate.filter(x => estimate(x) != "Overestimate")
+  val correct_trust = testData.filter(x => trust(x) == 1)
+  val incorrect_trust = correct_trust.filter(x => estimate(x) != true)
 
-  for (i <- 0 to (incorrect_overestimate.size - 1)){
-    println(incorrect_overestimate.get(i).date + ":" + estimate(incorrect_overestimate.get(i)))
+  for (i <- 0 until (incorrect_trust.size - 1)){
+    println(incorrect_trust.get(i).date + ":" + estimate(incorrect_trust.get(i)))
   }
-
+*/
 
 }

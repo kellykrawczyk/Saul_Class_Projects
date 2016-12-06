@@ -25,9 +25,8 @@ public class DisneyStock {
     public float volatility; //stock price volatility
     public float EPS;
     public float BEST_EPS;
-    public String estimate;//compare Bloomberg Estimate of EPS with actual EPS
+    public boolean estimate;//compare Bloomberg Estimate of EPS with actual EPS
                                 // (overestimate vs underestimate)
-    public float estimate_value; //numeric value for prediction (1 = overestimate, -1 = underestimate)
 
     public DisneyStock(String d, float b, float td, float so, float c_ncwc, float ce, float ie, float ebit, float oi, float evcf, float ebitda, float r, float oe, float rv, float ncwv, float tl, float mc, float ni, float v, float eps, float best_eps) {
 
@@ -53,13 +52,14 @@ public class DisneyStock {
         EPS = eps;
         BEST_EPS = best_eps;
 
-        if (EPS > BEST_EPS) {
-            estimate = "Underestimate";
-            estimate_value = -1;
+        if (EPS == BEST_EPS) {
+            estimate = true;
+        }
+        else if (Math.abs(EPS - BEST_EPS) <= 0.05){
+            estimate = false;
         }
         else {
-            estimate = "Overestimate";
-            estimate_value = 1;
+            estimate = false;
         }
     }
 
@@ -89,7 +89,6 @@ public class DisneyStock {
         data.add(EPS);
         data.add(BEST_EPS);
         data.add(estimate);
-        data.add(estimate_value);
 
         System.out.println(data);
 
